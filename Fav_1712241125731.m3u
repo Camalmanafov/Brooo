@@ -1,0 +1,992 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="Groups", APA TV HD
+http://rtmp.apa.tv/@pagroup!23.m3u8
+
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Groups", Baku TV HD
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+
+#EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="Groups", Kəpəz TV 
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+
+#EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://i.imgur.com/e2KFL0R.png" group-title="Groups", Real TV 
+https://str.yodacdn.net/real/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="Groups", Az TV HD
+https://str.yodacdn.net/aztv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logowik.com/content/uploads/images/253_showtv.jpg" group-title="Groups", SHOW TV HD
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="Groups", CBC SPORT HD
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="Groups", ARB 24 HD
+https://cdn405.canlitv.services/arb24.m3u8?tkn=T6FH268k2ZW3W0AixexBpw&tms=1711652269&hst=tr.canlitv.services&ip=185.233.35.58
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Groups", Nat Geo Wild (rus)
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="Groups", CNN Türk HD
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Groups", Cine5 HD
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Groups", Dream Türk HD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Groups", Euro D HD
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Groups", Fashion TV HD
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Groups", Kanal D HD
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Groups", KRAL Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://i.imgur.com/jXbs8FZ.png" group-title="Groups", NTV HD
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Groups", Power Turk 
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Groups", Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Groups", Star TV HD
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Groups", TRT 1 HD
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="belgesel" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Groups", TRT 2 
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Groups", TRT Haber HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Groups", TRT Belgesel HD
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Groups", TRT Çocuk HD
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="https://i.imgur.com/f2zGoV3.png" group-title="Groups", Woman TV HD
+https://embedlp.becdn.net/womantv.m3u8
+
+#EXTINF:-1 tvg-id="AznewsTV.az" tvg-logo="https://i.imgur.com/2V0AemI.png" group-title="Groups", AZ News HD
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="Groups", Medeniyyet TV 
+https://str.yodacdn.net/medeniyyet/index.m3u8
+
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Groups", 360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="Groups", A HABER
+https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Groups", CTC
+https://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="Groups", Kanal D Romania 
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Groups", Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gBjk9oF.png" group-title="Groups", Рен ТВ International
+https://woobl.ru/hls987/Rentv_international.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="Groups", Россия 1
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Groups", Kanal D HD
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="Groups", СТС Love
+http://streaming.tv-teleport.ru/STS_Love/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="Groups", ТВ3
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Groups", ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Groups", ATV
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Groups", НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HYg75w2.png" group-title="Groups", Romanza+ Africa
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Groups", Az Corazon
+http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Groups", Cartoonito
+http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATurk.tr" tvg-logo="https://i.imgur.com/je5wQ3G.png" group-title="Groups", A Türk Izmir 
+https://vdo.digitalbox.xyz:3807/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Groups", 24 TV HD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="https://i.imgur.com/ls9NLa4.png" group-title="Groups", Agro TV HD
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AkitTV.tr" tvg-logo="https://i.imgur.com/oGto929.png" group-title="Groups", Akit TV HD
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+
+#EXTINF:-1 tvg-id="AksuTV.tr" tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="Groups", Aksu TV 
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHayatTV.us" tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="Groups", Al Hayat TV HD
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-logo="https://i.imgur.com/QEHKGnG.png" group-title="Groups", Al-Zahra TV Turkic HD
+https://live.al-zahratv.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArasTV.tr" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="Groups", ARAS TV 
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Groups", Bloomberg TV Europe HD
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-id="CanTV.tr" tvg-logo="https://i.imgur.com/oIMtuwB.png" group-title="Groups", Can TV HD
+http://canbroadcast.com:7000/canlican/tv.m3u8
+
+#EXTINF:-1 tvg-id="CayTV.tr" tvg-logo="https://i.imgur.com/ndupxwu.png" group-title="Groups", Cay TV HD
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+
+#EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-logo="https://i.imgur.com/sjAGFWu.png" group-title="Groups", Cekmeköy TV HD
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DHA.tr" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="Groups", DHA HD
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DimTV.tr" tvg-logo="https://i.imgur.com/X4QFDhk.png" group-title="Groups", DİM TV HD
+https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="Groups", Diyanet TV HD
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DRTDenizli.tr" tvg-logo="https://i.imgur.com/ZLX2RB7.png" group-title="Groups", DRT Denizli HD
+https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EdessaTV.tr" tvg-logo="https://i.imgur.com/rhU6j9I.png" group-title="Groups", Edessa TV HD
+https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
+
+#EXTINF:-1 tvg-id="ESTV.tr" tvg-logo="https://i.imgur.com/epAEBrp.png" group-title="Groups", ES TV 
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Groups", EWTN Europe HD
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FortunaTV.tr" tvg-logo="https://i.imgur.com/ZbUSlOC.png" group-title="Groups", Fortuna TV HD
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Groups", NOW Türkiye HD
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="GoncaTV.tr" tvg-logo="https://i.imgur.com/TwqIJwo.png" group-title="Groups", Gonca TV 
+https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Haber61TV.tr" tvg-logo="https://i.imgur.com/2a2XUKl.png" group-title="Groups", Haber61 TV HD
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Groups", Halk TV HD
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="IBBTV.tr" tvg-logo="https://i.imgur.com/aXxAz84.png" group-title="Groups", IBB TV HD
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal12.tr" tvg-logo="https://i.imgur.com/51xCkXG.png" group-title="Groups", Kanal 12 HD
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal23.tr" tvg-logo="https://i.imgur.com/3br8RCq.png" group-title="Groups", Kanal 23 
+https://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal33.tr" tvg-logo="https://i.imgur.com/5WYaoFZ.png" group-title="Groups", Kanal 33 
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalFirat.tr" tvg-logo="https://i.imgur.com/3o8Rokp.png" group-title="Groups", Kanal Firat 
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalHayat.tr" tvg-logo="https://i.imgur.com/eikZj19.png" group-title="Groups", Kanal Hayat 
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+
+#EXTINF:-1 tvg-id="KanalS.tr" tvg-logo="https://i.imgur.com/DN6gdg2.png" group-title="Groups", Kanal S 
+https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalZ.tr" tvg-logo="https://i.imgur.com/Kr8960d.png" group-title="Groups", Kanal Z 
+https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifeTV.tr" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="Groups", Life TV 
+https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MalatyaVuslatTV.tr" tvg-logo="https://i.imgur.com/FUaWv4s.png" group-title="Groups", Malatya Vuslat TV 
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="Groups", Meltem TV 
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="https://i.imgur.com/lEIFDwo.png" group-title="Groups", Milyon TV 
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+
+#EXTINF:-1 tvg-id="MercanTV.tr" tvg-logo="https://i.imgur.com/3CWV8bS.png" group-title="Groups", Mercan TV 
+https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="Groups", Number 1 Ask 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="https://i.imgur.com/rYtbAGZ.png" group-title="Groups", Number 1 Damar 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="https://i.imgur.com/ZM4PSyq.png" group-title="Groups", Number 1 Dance 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="On4TV.tr" tvg-logo="https://i.imgur.com/qGRa1KI.png" group-title="Groups", On4 TV 
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="On6.tr" tvg-logo="https://i.imgur.com/k7rS2gC.png" group-title="Groups", On 6 
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PMC.ae" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Groups", PMC 
+https://hls.pmchd.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Groups", PMC Royale 
+https://rohls.pmc.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Groups", Power Dance 
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="Groups", Power Love 
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Groups", Power Türk Akustik 
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="https://i.imgur.com/tQSoQXW.png" group-title="Groups", Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="Groups", Power Türk Taptaze 
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Groups", Satranç TV 
+http://139.162.182.79/live/test/index.m3u8
+
+#EXTINF:-1 tvg-id="TatlisesTV.tr" tvg-logo="https://i.imgur.com/et1sbyq.png" group-title="Groups", Tatlises TV 
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBMMTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="Groups", TBMM TV 
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-1 tvg-id="TarimTV.tr" tvg-logo="https://i.imgur.com/q30sFms.png" group-title="Groups", Tarim TV (1080p)
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+
+#EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="Groups", Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Groups", Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-id="TempoTV.tr" tvg-logo="https://i.imgur.com/6w3ecR7.png" group-title="Groups", Tempo TV
+https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="Groups", Tivi 6 
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Groups", Tlnovelas Europa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png" group-title="Groups", TRT Avaz 
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Groups", TRT Kurdî 
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Groups", TRT Müzik HD
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="Groups", TRT Türk HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TurkHaber.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="Groups", TürkHaber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV1.tr" tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="Groups", TV 1 
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Groups", TV4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Groups", TV 8 HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="https://i.imgur.com/EwSg612.png" group-title="Groups", Ulusal Kanal 
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+
+#EXTINF:-1 tvg-id="UniversiteTV.tr" tvg-logo="https://i.imgur.com/KeauaSh.png" group-title="Groups", Üniversite TV HD
+https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
+
+#EXTINF:-1 tvg-id="UUTV1.tr" tvg-logo="https://i.imgur.com/H5kOQz5.png" group-title="Groups", ÜÜ TV 1 HD
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UUTV2.tr" tvg-logo="https://i.imgur.com/FjFjdY5.png" group-title="Groups", ÜÜ TV Üsküdar Üniversitesi TV HD
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="Groups", CGTN Русский 
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Groups", Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Groups", Перец
+http://stream01.vnet.am/Perec/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/33XGMch.png" group-title="Groups", Прима HD
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Groups", СТС Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Groups", Film & Arts
+http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="Groups", A2TV
+http://50.7.218.122:8080/a2hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="Groups", HABER GLOBAL
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotGO0p9JglmA9q0zx5-Hp2GMDkOR2ovLXtEZqHbFiaw&s" group-title="Groups", 2x2 HD
+https://vsd132.mycdn.me/hls/5989330520712.m3u8/sig/8fozDpQKwe8/expires/1711652825953/srcIp/185.233.35.51/urls/45.136.21.62/clientType/0/srcAg/CHROME_ANDROID/mid/7022731468424/5989330520712_high/index.m3u8?p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/1200px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png" group-title="Groups", Пятница HD
+https://oklive6-8.vkuser.net/hls/517178264084.m3u8/sig/Lgtt_CxEgRY/expires/1711652565842/srcIp/185.233.35.51/urls/45.136.22.63/clientType/0/srcAg/CHROME_ANDROID/mid/1149890272788/517178264084_fullhd/index.m3u8?p
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Groups", ТНТ HD
+https://vsd78.mycdn.me/hls/6178404305528.m3u8/sig/RN1sAcCS_HI/expires/1711652479016/srcIp/185.233.35.51/urls/45.136.21.63/clientType/0/srcAg/CHROME_ANDROID/mid/7681218649720/6178404305528_fullhd/index.m3u8?p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="Groups", CTC LOVE
+https://vsd230.mycdn.me/hls/6219221568171.m3u8/sig/hY7GCw3h7eI/expires/1711659448429/srcIp/185.233.35.41/urls/45.136.20.37/clientType/0/srcAg/CHROME_ANDROID/mid/7033094479531/6219221568171_high/index.m3u8?p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cbctv.az/assets/site/img/cbclogo.png" group-title="Groups", CBC TV
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png" group-title="Groups", XƏZƏR TV
+https://cdn406.canlitv.vin/xezertv.m3u8?tkn=3awIGEl-ZSEAnR1-iO0YIQ&tms=1711653233&hst=www.canlitv.vin&ip=185.233.35.61 
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Groups", DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="Groups", EUROSTAR
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="Groups", NR1 FASHION ONE
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="Groups", SHOW MAX
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="Groups", A SPOR
+https://github.com/rideordie16/YouTube/raw/main/spor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="Groups", beIN SPORTS HABER
+https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="Groups", Number 1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="Groups", ATV AVRUPA
+https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="Groups", TAY TV
+https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/taytv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Groups", TEVE2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="Groups", TGRT HABER HD
+https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?app=web
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.telepark.tv/wp-content/uploads/2022/06/KINOPREMYERA-2.jpg" group-title="Groups", Кинопремьера HD
+http://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.iptv.rt.ru/images/chhnc7rir4ssk120giag.png" group-title="Groups", Кино хит
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.omkc.ru/uploads/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5/6j2.png" group-title="Groups", Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://admin.optikom.uz/uploads/images/tv/kinopremera.png" group-title="Groups", КП HD
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkbmJtwBFXt50PMd7sR1x2xuwjcBFHzxbbhhW60p24g&s" group-title="Groups", КИНОСВИДАНИЕ
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKePugQUPivxS3JmGbJlylAVLLMZPLLxTvs0gX-xAmew&s" group-title="Groups", КИНОМИКС HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://epgx.site/p/viju-tv1000-novella.png" group-title="Groups", viju TV1000 новелла HD
+http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_russkoe_color_rgb_02_1.png" group-title="Groups", Viju TV1000 Ру Кино HD
+https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_russkoe_color_rgb_02_1.png" group-title="Groups", TV1000 Р Кино 
+http://sc.id-tv.kz/TV1000RuKino_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_action_color_rgb_02_1.png" group-title="Groups", TV1000 Action
+http://sc.id-tv.kz/TV1000Action_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", TV1000
+http://sc.id-tv.kz/TV1000_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", TV1000 World Kino
+http://78.26.128.59:9876/play/144/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", TV 1000 SD
+http://109.248.236.21:4433/udp/238.1.1.41:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", TV 1000 Action SD
+http://109.248.236.21:4433/udp/238.1.1.43:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Viju TV1000 SD
+http://otv.wotom.net:4433/udp/238.1.1.41:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Премиум Кино HD
+https://bkm.beetv.kz/btv/live/hls/000008491.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Иллюзион+ HD
+https://bkm.beetv.kz/btv/live/hls/000004582.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Hollywood FUL HD
+http://tatooine.odessa.tv:9876/play/539/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Рен ТВ
+http://stream01.vnet.am/RenTv/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", СТС sd
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", ДОМАШНИЙ International
+https://bkm.beetv.kz/btv/live/hls/000002348.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", ТВ 3 International
+https://bkm.beetv.kz/btv/live/hls/000004712.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Пятница! International (Казахстан)
+http://109.248.236.21:4433/udp/238.1.1.192:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/num/2plus2.png" group-title="Groups", 2+2
+http://rr3.vipshara-iptv.com/~201cd2067ab813cddccc785b94cd3385727/27654/hls/pl.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Київ HD
+http://78.26.128.59:9876/play/184/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tlc_us.png" group-title="Groups", TLC
+https://bkm.beetv.kz/btv/live/hls/000001498.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Nick Jr. KZ
+https://bkm.beetv.kz/btv/live/hls/000008575.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WUAXiq1.png" group-title="Groups", American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fashion_tv_fr.png" group-title="Groups", Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/aa/animal_planet_us.png" group-title="Groups", Animal Planet
+http://78.26.128.59:9876/play/286/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/dd/discovery_international.png" group-title="Groups", Discovery Channel
+http://78.26.128.59:9876/play/285/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/vv/viasat_explore.png" group-title="Groups", Viasat Explore
+http://78.26.128.59:9876/play/223/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/vv/viasat_history.png" group-title="Groups", Viasat History
+http://78.26.128.59:9876/play/337/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Viasat Planet HD
+http://78.26.128.59:9876/play/336/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tlc_us.png" group-title="Groups", TLC
+http://78.26.128.59:9876/play/62/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/aa/animal_planet_us.png" group-title="Groups", Animal Planet
+http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/vv/viasat_nature.png" group-title="Groups", Viasat Nature
+http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/vv/viasat_history.png" group-title="Groups", Viasat History
+http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/vv/viasat_explore.png" group-title="Groups", Viasat Explore
+https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Viju History
+http://109.248.236.21:4433/udp/238.1.1.1:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Viju Explore
+http://109.248.236.21:4433/udp/238.1.1.18:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://epgx.site/p/viasat-nature.png" group-title="Groups", Viju Nature
+http://109.248.236.21:4433/udp/238.1.1.51:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/aa/animal_planet_us.png" group-title="Groups", Animal Planet
+http://109.248.236.21:4433/udp/238.1.1.25:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Индия
+http://stream01.vnet.am/ZeeTV/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", BOLLYWOOD HD
+https://bkm.beetv.kz/btv/live/hls/000001419.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", FOX Life HD
+https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="Groups", FOX Life
+http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", FOX Life SD
+http://91.205.199.3/FoxLife/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Fx HD
+https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_global.png" group-title="Groups", Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fx_us.png" group-title="Groups", Fx
+http://sc.id-tv.kz/FOX_HD_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", A Premium HD
+http://otv.wotom.net:4433/udp/238.1.1.71:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", ТНТ4 International
+http://109.248.236.21:4433/udp/238.1.1.12:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", ПЕРЕЦ
+https://bkm.beetv.kz/btv/live/hls/000001248.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Investigation Discovery
+http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Discovery Channel HD
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Turbo Discovery LA 480p
+http://181.78.8.90:16123/play/ch24
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/dd/discovery_international.png" group-title="Groups", Discovery Channel
+http://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", National Geographic
+https://cdn-nvm-chicago.lolokoko.tv/NationalGeographic.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", National Geographic SD
+http://stream02.vnet.am/NationalGeographic/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", National Geographic
+https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://epgx.site/p/animal-planet-eu.png" group-title="Groups", Animal Planet HD
+http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Animal Planet SD
+http://otv.wotom.net:4433/udp/238.1.1.25:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", VIP MEGAHIT
+https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", VIP Serial HD
+https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", VIP PREMIERE
+https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", VIP COMEDY
+https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Мужское кино SD
+http://stream01.vnet.am/MujskoeKino/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", МУЖСКОЕ КИНО KZ
+http://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", ITV HD
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", МОЯ ПЛАНЕТА
+http://persik.by/stream/1215/453417/639.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", ОХОТА И РЫБАЛКА
+http://persik.by/stream/1215/453417/243.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Ужасы HD
+http://persik.by/stream/1215/453417/10714.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", КИНОПРЕМЬЕРА HD
+http://persik.by/stream/1215/453417/10240.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", QAZAQSTAN HD int
+https://bkm.beetv.kz/btv/live/hls/000008058.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://epgx.site/p/cartoon-network.png" group-title="Groups", Cartoon Network
+https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://epgx.site/p/ntv.png" group-title="Groups", НТВ (HD)
+http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ntv-amerika" tvg-logo="https://epgx.site/p/ntv-amerika.png" group-title="Groups", НТВ Америка (EDTV 480p)
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://epgx.site/p/mir.png" group-title="Groups", Мир (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://epgx.site/p/mir24.png" group-title="Groups", Мир 24 (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://epgx.site/p/zvezda-plus.png" group-title="Groups", Звезда + (HD)
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://epgx.site/p/krasnaya-linia.png" group-title="Groups", Красная линия (EDTV 480p)
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://epgx.site/p/rt-doc.png" group-title="Groups", RTД (HD)
+https://hls.rt.com/hls/rtdru.m3u8
+
+#EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://epgx.site/p/tv-brics.png" group-title="Groups", TV BRICS (HD)
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://epgx.site/p/zvezda.png" group-title="Groups", Звезда (HD)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="dumatv" tvg-logo="https://epgx.site/p/dumatv.png" group-title="Groups", Дума ТВ (nHD)
+https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://epgx.site/p/neizvestnaya-rosia.png" group-title="Groups", Неизвестная Россия (HD)
+http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="Groups", Россия 1 (HD)
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://epgx.site/p/tvcentr.png" group-title="Groups", ТВЦ (WSVGA)
+https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://epgx.site/p/rentv.png" group-title="Groups", Рен ТВ (HD)
+http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://epgx.site/p/da-vinci.png" group-title="Groups", Da Vinci (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.45:1234
+
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Groups", 2x2 (EDTV 576p)
+http://45.15.43.12:80/2x2/video.m3u8?token=test
+
+#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Groups", Домашний (HD)
+https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
+
+#EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://epgx.site/p/domashny-int.png" group-title="Groups", Домашний International (EDTV 576p)
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="Groups", СТС (HD)
+http://31.131.136.4:8001/play/e001
+
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="Groups", Пятница (WSVGA)
+https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-id="sarafan" tvg-logo="https://epgx.site/p/sarafan.png" group-title="Groups", Сарафан (EDTV 576p)
+http://178.124.179.122:8088/Sarafan/index.m3u8
+
+#EXTINF:-1 tvg-id="super" tvg-logo="https://epgx.site/p/subbota.png" group-title="Groups", Суббота (HD)
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+
+#EXTINF:-1 tvg-id="backustv-music" tvg-logo="https://epgx.site/p/backustv-music.png" group-title="Groups", BackusTV Music (HD)
+https://playlist.nuum.ru/live/5478/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://epgx.site/p/bridge-tv-rock.png" group-title="Groups", Bridge Rock (HD)
+http://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+
+#EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Groups", RU TV (HD)
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://epgx.site/p/europa-plus-tv.png" group-title="Groups", Europa Plus TV (EDTV 576p)
+http://45.15.43.12:80/europaplus/video.m3u8?token=test
+
+#EXTINF:-1 tvg-id="zhara" tvg-logo="https://epgx.site/p/zhara.png" group-title="Groups", Жара (HD)
+http://188.113.190.15/328/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="muztv" tvg-logo="https://epgx.site/p/muztv.png" group-title="Groups", МузТВ (WSVGA)
+https://streaming.televizor-24-tochka.ru/live/20-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://epgx.site/p/tnt-music.png" group-title="Groups", ТНТ Music (HD)
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="Groups", FAN (HD)
+http://hlss.goodgame.ru/hls/157239.m3u8
+
+#EXTINF:-1 tvg-id="kinojam2" tvg-logo="https://epgx.site/p/kinojam2.png" group-title="Groups", Kinojam 2 (HD)
+https://live-mirror-12.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MjczNTA3OCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkyMTMwMjc4LCJzZXNzaW9uX2lkIjoiOWNmODQ0NGJiOGM3NWI5NGFjNDJiM2JkNGI3ZWMxMzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.hUXvl74L08qIrIia8T5RQVD8khzcJt-HW6HB1kR6Shc
+
+#EXTINF:-1 tvg-id="trashtv" tvg-logo="https://epgx.site/p/trashtv.png" group-title="Groups", Trash (HD)
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+
+#EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Groups", Start World (HD)
+https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
+
+#EXTINF:-1 tvg-id="plan-b" tvg-logo="https://epgx.site/p/plan-b.png" group-title="Groups", Plan B (HD)
+http://88.85.172.243:7012/play/a028
+
+#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://epgx.site/p/filmbox-arthouse.png" group-title="Groups", Filmbox Arthouse (EDTV 576p)
+http://188.113.190.15/207/mono.m3u8
+
+#EXTINF:-1 tvg-id="fox" tvg-logo="https://epgx.site/p/fox.png" group-title="Groups", FX (EDTV 576p)
+http://stream01.vnet.am/Fox/mono.m3u8
+
+#EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://epgx.site/p/hollywood-hd.png" group-title="Groups", HollywooD (EDTV 576p)
+http://45.15.43.12:80/hollywood/video.m3u8?token=test
+
+#EXTINF:-1 tvg-id="kino-24" tvg-logo="https://epgx.site/p/kino-24.png" group-title="Groups", Kino 24 (EDTV 576p)
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1 tvg-id="kinoliving" tvg-logo="https://epgx.site/p/kinoliving.png" group-title="Groups", KinoLiving (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.1:1234
+
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="Groups", Viju+ Comedy (EDTV 576p)
+http://188.113.190.15/203/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="Groups", Viju TV1000 Action (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.24:1234
+
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="Groups", Viju TV1000 (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.23:1234
+
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="Groups", Viju+ Megahit (HD)
+http://92.242.110.52:9835/udp/238.1.3.7:1234
+
+#EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://epgx.site/p/zee-tv.png" group-title="Groups", Индия (EDTV 576p)
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://epgx.site/p/illuzion-plus.png" group-title="Groups", Иллюзион+ (EDTV 576p)
+http://176.113.48.221:8986/73
+
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://epgx.site/p/eurokino.png" group-title="Groups", Еврокино (EDTV 576p)
+http://109.239.208.82:80/eurokino/index.m3u8
+
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://epgx.site/p/dorama.png" group-title="Groups", Дорама (480p)
+http://ott-cdn.ucom.am/s95/04.m3u8
+
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://epgx.site/p/kinopremiera.png" group-title="Groups", Кинопремьера (HD)
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Groups", Россия 24 (WSVGA)
+https://player.smotrim.ru/iframe/stream/live_id/21
+
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epgx.site/p/izvestia.png" group-title="Groups", Известия (HD)
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Groups", Eurosport 1 (HD)
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epgx.site/p/nat-geo-wild.png" group-title="Groups", Nat Geo Wild (EDTV 576p)
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://epgx.site/p/idxtra.png" group-title="Groups", ID Xtra (HD)
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Groups", Discovery (HD)
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://epgx.site/p/radio-mir.png" group-title="Groups", Радио Мир
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Fashion Channel
+https://ipv4.bozztv.com/dvrfl07/ushba19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Code Fashion TV
+https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Fashion TV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="liova" tvg-logo="https://epgx.site/p/liova.png" group-title="Groups", Лёва (HD)
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+
+#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://epgx.site/p/muzyka-pervogo.png" group-title="Groups", Музыка Первого (EDTV 576p)
+http://109.239.208.82:80/muz1/index.m3u8
+
+#EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Groups", BackusTV dark (HD)
+http://stream.backustv.ru/live/btv2/index.m3u8
+
+#EXTINF:-1 tvg-id="backustv" tvg-logo="https://epgx.site/p/backustv.png" group-title="Groups", BackusTV original (HD)
+https://stream.backustv.ru/live/btv/index.m3u8
+
+#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="https://epgx.site/p/indijskoe-kino.png" group-title="Groups", Индийское кино (EDTV 576p)
+http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="Groups", НТВ Сериал (EDTV 576p)
+http://91.205.199.3:80/ntvserial/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="Groups", НТВ Хит (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.7.27:1234
+
+#EXTINF:-1 tvg-id="4780" tvg-logo="http://epg.it999.ru/img2/4780.png" group-title="Groups", Фантастика (HD)
+http://hlss.goodgame.ru/hls/187241.m3u8
+
+#EXTINF:-1 tvg-id="start-air" tvg-logo="https://epgx.site/p/start-air.png" group-title="Groups", Start Air (HD)
+http://92.242.110.52:9835/udp/238.1.7.28:1234
+
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="Groups", Дом кино Премиум (HD)
+http://188.113.190.15/91/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://epgx.site/p/match-arena.png" group-title="Groups", Матч! Арена (EDTV 576p)
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://epgx.site/p/match-planeta.png" group-title="Groups", Матч! Планета (WSVGA)
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Groups", Матч! Футбол 1 (HD ready)
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png" group-title="Groups", Матч! (EDTV 576p)
+http://91.142.158.107:8092/play/33/index.m3u8
+
+#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Groups", РБК (HD)
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="h2" tvg-logo="https://epgx.site/p/h2.png" group-title="Groups", H2 (HD)
+https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.it999.ru/img2/2012.png" group-title="Groups", Viju+ Planet (HD)
+http://176.113.48.221:8986/98
+
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://epgx.site/p/viasat-nature.png" group-title="Groups", Viju Nature 
+http://45.15.43.12:80/viasatnature/video.m3u8?token=test
+
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://epgx.site/p/viasat-history.png" group-title="Groups", Viju History (EDTV 576p)
+http://45.15.43.12:80/viasathistory/video.m3u8?token=test
+
+#EXTINF:-1 tvg-id="rtg-tv" tvg-logo="http://epg.it999.ru/img2/648.png" group-title="Groups", RTG TV (EDTV 576p)
+http://176.113.48.221:8986/104
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Groups", Россия К (HD)
+https://player.smotrim.ru/iframe/stream/live_id/19201
+
+#EXTINF:-1 tvg-id="fashion-tv" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Groups", Fashion TV (HD)
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-logo="https://epgx.site/p/tlc.png" group-title="Groups", TLC (EDTV 576p)
+http://45.15.43.12:80/tlc/video.m3u8?token=test
+
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Groups", НТВ Стиль (WSVGA)
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="belarus1" tvg-logo="https://epgx.site/p/belarus1hd.png" group-title="Groups", Беларусь 1 (HD)
+https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus2" tvg-logo="https://epgx.site/p/belarus2hd.png" group-title="Groups", Беларусь 2 (HD)
+https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus24" tvg-logo="https://epgx.site/p/belarus24.png" group-title="Groups", Беларусь 24 (HD)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus3" tvg-logo="https://epgx.site/p/belarus3hd.png" group-title="Groups", Беларусь 3 (HD)
+https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Groups", Волгоград 24 (HD)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Groups", Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+
+#EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Groups", Юмор FM
+http://ic7.101.ru:8000/v5_1
+
+#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Groups", Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+
+#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="http://epg.it999.ru/img2/6763.png" group-title="Groups", Раменское ТВ (HD ready)
+https://e10-ll.facecast.net/rtv/0.m3u8
+
+#EXTINF:-1 tvg-id="ntm" tvg-logo="https://epgx.site/p/ntm.png" group-title="Groups", HD ready)
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="don-24" tvg-logo="https://epgx.site/p/don-24.png" group-title="Groups", nHD)
+https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
+
+#EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://epgx.site/p/enisey-region.png" group-title="Groups", HD)
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="legendarny24" tvg-logo="https://epgx.site/p/legendarny24.png" group-title="Groups", HD)
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+
+#EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-logo="http://epg.it999.ru/img2/5810.png" group-title="Groups", Липецкое время (HD ready)
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="http://epg.it999.ru/img2/6767.png" group-title="Groups", HD ready)
+https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png" group-title="Groups", Твоё ТВ (HD)
+http://tvoetv.space:8080/tvoetv/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://epgx.site/p/animal-planet-eu.png" group-title="Groups", Animal Planet (HD)
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1lw_L0R-mrFxnm1gXadap6aCnHQ2TLaykjGZqvVnulw&s" group-title="Groups", Kanal 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Sports
+http://78.26.128.59:9876/play/161/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Ukraine Plus HD
+http://78.26.128.59:9876/play/4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", SETANTA SPORTS
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Sports 1 HD RU
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Sports 2 HD RU
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Sports 1 HD KZ
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Sports 2 HD KZ
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Sports 1 HD
+http://109.248.236.21:4433/udp/238.1.1.162:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Sports 2 HD
+http://109.248.236.21:4433/udp/238.1.1.163:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Qazaqstan HD
+http://109.248.236.21:4433/udp/238.1.1.161:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Sports 2
+http://otv.wotom.net:4433/udp/238.1.1.163:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Setanta Sports kz
+http://otv.wotom.net:4433/udp/238.1.1.161:1234
+
