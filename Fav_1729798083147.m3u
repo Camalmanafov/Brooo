@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="gggg" group-title="Groups", ttrt yildiz
+https://cdn401.canlitv.me/trtspor2.m3u8?tkn=H8MPT8OEB1IOUneTJGQXsA&tms=1729655052&hst=www.canlitv.me&ip=46.22.226.126
+
+#EXTINF:-1 tvg-id="ShowPlusTV.az" tvg-logo="noimage.png" group-title="Groups", Show Plus TV (720p)
+https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8
+
+#EXTINF:-1 tvg-id="7tv.ru" tvg-logo="noimage.png" group-title="Groups", 7 TV
+http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", DanceHits80
+http://89.111.136.7:8080/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Kulinar TV Show
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
+
+#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-logo="noimage.png" group-title="Groups", Nostalgia
+http://91.205.199.3/nostalgia/index.m3u8
+
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="noimage.png" group-title="Groups", RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+
+#EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-logo="noimage.png" group-title="Groups", SONGTV Russia (720p)
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+
+#EXTINF:-1 tvg-id="Sochi24.ru" tvg-logo="noimage.png" group-title="Groups", Sochi 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SochiLiveHD.ru" tvg-logo="noimage.png" group-title="Groups", Sochi Live HD (720p) [Not 24/7]
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTHD.ru" tvg-logo="noimage.png" group-title="Groups", TNT HD (1080p)
+http://91.205.199.3/tnthd/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="noimage.png" group-title="Groups", TNT4
+http://91.205.199.3/tnt4/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBRICSRussian.ru" tvg-logo="noimage.png" group-title="Groups", TV BRICS Russian (1080p)
+http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", TVOE TV HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-logo="noimage.png" group-title="Groups", viju Explore
+http://91.205.199.3/viasatexplorer/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-logo="noimage.png" group-title="Groups", viju Nature
+http://91.205.199.3/viasatnature/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-logo="noimage.png" group-title="Groups", viju TV1000 action (1080p)
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-logo="noimage.png" group-title="Groups", viju+ Megahit
+http://91.205.199.3/vipmegahit/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-logo="noimage.png" group-title="Groups", viju+ Comedy (1080p)
+http://77.235.1.17/vip_comedy/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-logo="noimage.png" group-title="Groups", viju+ Premiere (1080p)
+http://77.235.1.17/vip_premier/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusPlanet.ru" tvg-logo="noimage.png" group-title="Groups", viju+ Planet (1080p)
+http://31.131.136.4:8001/play/e006
+
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-logo="noimage.png" group-title="Groups", viju+ Serial
+http://91.205.199.3/vipserialhd/index.m3u8
+
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="noimage.png" group-title="Groups", VIVA Russia (1080p) [Not 24/7]
+https://hls.goodgame.ru/hls/180805.m3u8
+
+#EXTINF:-1 tvg-id="AISTTV.ru" tvg-logo="noimage.png" group-title="Groups", Аист ТВ
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aris24.ru" tvg-logo="noimage.png" group-title="Groups", Арис 24 (720p) [Not 24/7]
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRain.ru" tvg-logo="noimage.png" group-title="Groups", Дождь (1080p) [Geo-blocked]
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-logo="noimage.png" group-title="Groups", Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="noimage.png" group-title="Groups", Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KVNTV.ru" tvg-logo="noimage.png" group-title="Groups", КВН TV
+http://91.205.199.3/kvntv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Кнопка ТВ
+https://api.alpaca.t62a.com/hls/9116/index.m3u8
+
+#EXTINF:-1 tvg-id="KinopremyeraHD.ru" tvg-logo="noimage.png" group-title="Groups", Кинопремьера HD
+http://45.159.74.13/Kinopremera/index.m3u8
+
+#EXTINF:-1 tvg-id="MaturTV.ru" tvg-logo="noimage.png" group-title="Groups", Матур ТВ (1080p)
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+
+#EXTINF:-1 tvg-id="MirPlus2.ru" tvg-logo="noimage.png" group-title="Groups", Мир +2 (540p) [Not 24/7]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MirPlus4.ru" tvg-logo="noimage.png" group-title="Groups", Мир +4 (540p) [Not 24/7]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MirPlus7.ru" tvg-logo="noimage.png" group-title="Groups", Мир +7 (540p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelRussia.ru" tvg-logo="noimage.png" group-title="Groups", Надежда (720p)
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NanoHD.ru" tvg-logo="noimage.png" group-title="Groups", Нано ТВ HD
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVHD.ru" tvg-logo="noimage.png" group-title="Groups", НТВ HD
+http://91.205.199.3/ntvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="NTS.ru" tvg-logo="noimage.png" group-title="Groups", НТС (Севастополь) (1080p) [Not 24/7]
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OSN.ru" tvg-logo="noimage.png" group-title="Groups", ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GovoritMoskva.ru" tvg-logo="noimage.png" group-title="Groups", Радио Говорит Москва (404p) [Not 24/7]
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioHit.ru" tvg-logo="noimage.png" group-title="Groups", Радио Хит (Орск) (300p)
+http://lova.me/hls/hit.m3u8
+
+#EXTINF:-1 tvg-id="RadioShanson.ru" tvg-logo="noimage.png" group-title="Groups", Радио Шансон (720p) [Not 24/7]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="noimage.png" group-title="Groups", Россия 24 (576p) [Not 24/7]
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TolkHD.ru" tvg-logo="noimage.png" group-title="Groups", Толк HD
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", 100% News UA
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", 312 КИНО HD
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
