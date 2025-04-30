@@ -512,7 +512,7 @@ http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Че! " tvg-logo="https://iptvx.one/picons/che.png" group-title="Rus kanalları",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-id="Че! " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJn_I4UG-IVomtN3TiUNpMR_51HvRp9Bq-w&s" group-title="Türk kanalları",A2
+#EXTINF:-1 tvg-id="Че! " tvg-logo="https://iaatv.tmgrup.com.tr/65837c/820/547/0/0/600/400?u=https://iatv.tmgrup.com.tr/2022/05/13/unutulmaz-diziler-a2de-a2-full-hd-izle-a2-canli-yayin-kesintisiz-izle-a2-yayin-akisi-ile-en-sevdigin-dizilere-1652464889414.jpg" group-title="Türk kanalları",A2
 https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 
 
