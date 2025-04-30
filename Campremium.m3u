@@ -480,7 +480,7 @@ http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
 http://130.193.73.10:8937/play/a02k
 
 #EXTINF:-1 tvg-id="Haber global" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Türk kanalları", Haber global
-http://stream.tvcdn.net/haber/haber-global.m3u8
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="Arb" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azərbaycan kanalları", Arb
 http://stream.tvcdn.net/azerbaycan/arb.m3u8
