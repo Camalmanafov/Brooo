@@ -527,7 +527,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Че! "tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fd93a4107973147.5fb3ade23e9e1.gif" group-title="Türk kanalları",TRT2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Че! "tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fd93a4107973147.5fb3ade23e9e1.gif" group-title="Türk kanalları",NTV türkiye
+#EXTINF:-1 tvg-id="Че! "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMGb3CEsJzvSDD9oUaT_pI0GJCNsoLJibSw&usqp=CAU" group-title="Türk kanalları",NTV türkiye
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
 
