@@ -455,7 +455,7 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", 360 НОВОСТИ
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", A Haber HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Türk kanalları", A Haber HD
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", A Spor
