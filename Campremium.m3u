@@ -192,7 +192,7 @@ http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png" group-title="Azərbaycan kanalları", Xazar TV
-http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
+https://cdn406.canlitv.me/xezertv.m3u8?tkn=bzqtwpwlUO_zgueIS3vWCA&tms=1746050229&hst=www.canlitv.me&ip=91.191.194.162
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", Ictimai TV (rez)
 http://str.yodacdn.net/ictimai/index.m3u8
