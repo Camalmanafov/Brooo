@@ -407,8 +407,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", Индия
 http://stream01.vnet.am/ZeeTV/mono.m3u8
 
-#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Rus kanalları", Матч! Футбол 1 (HD ready)
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Rus kanalları", Матч! тв
+https://edge02r.mediavitrina.ru/hls-livef1/matchtv/tracks-v3a1/mono.m3u8?token=v2.jIrTtj-nJFbW2UM4TYw-wT8-M2gyFZZL8NohthHIAus.tnqzaTDAzcij9Psgo52VSJ6DDy8w8mkUWWaIvRgV9jE.1746644340.bed5fd9c08decc751b4d75e2e27cf563
 
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://epgx.site/p/match-planeta.png" group-title="Rus kanalları", Матч! Планета (WSVGA)
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
