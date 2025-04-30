@@ -3,7 +3,7 @@
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 #EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://i.imgur.com/e2KFL0R.png" group-title="Azərbaycan kanalları", Real TV
-https://str.yodacdn.net/real/playlist.m3u8
+https://cdn402.canlitv.ltd/realtv.m3u8?tkn=MRJjkQa0wXo4CGF0Pn543g&tms=1746049733&hst=www.canlitv.vin&ip=91.191.195.223
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="Türk kanalları", SHOW MAX
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
