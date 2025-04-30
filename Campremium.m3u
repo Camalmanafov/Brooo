@@ -483,7 +483,7 @@ http://130.193.73.10:8937/play/a02k
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="Arb" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azərbaycan kanalları", Arb
-http://stream.tvcdn.net/azerbaycan/arb.m3u8
+https://cdn900.canlitv.vin/arbtv.m3u8?tkn=XUZTy8xXIM2lhAig4CbUeA&tms=1746039471&hst=www.canlitv.vin&ip=91.191.195.223
 
 #EXTINF:-1 tvg-id="Arb gunes" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azərbaycan kanalları", Arb gunes
 http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
