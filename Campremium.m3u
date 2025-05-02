@@ -533,6 +533,8 @@ https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="Че! "tvg-logo="https://ritsatv.ru/files/poster/medium/901283.webp" group-title="Rus kanalları",Кинолента 24
 https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/REcbsvQFHholKNZCWBO7Hg/stream/genetta-315.m9.rutube.ru/YwcZy0-7QR6xqhFCQczKtw/1746642061/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 
+#EXTINF:-1 tvg-id="da vinci "tvg-logo="https://ritsatv.ru/files/poster/medium/901283.webp" group-title="Rus kanalları",DA VİNCİ
+http://130.193.73.10:8937/play/a014
 
 
 
