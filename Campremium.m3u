@@ -488,7 +488,7 @@ https://cdn900.canlitv.vin/arbtv.m3u8?tkn=XUZTy8xXIM2lhAig4CbUeA&tms=1746039471&
 #EXTINF:-1 tvg-id="Arb gunes" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azərbaycan kanalları", Arb gunes
 http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
 
-#EXTINF:-1 tvg-id="Первый канал" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Rus kanalları",Первый канал
+#EXTINF:-1 tvg-id="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Rus kanalları",Первый канал
 http://ott-cdn.ucom.am/s14/04.m3u8
 
 #EXTINF:-1 tvg-id="Show Plus TV" tvg-logo="http://assets.dn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azərbaycan kanalları",Show plus Tv
