@@ -481,7 +481,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://raw.githubusercontent.com/Camalmanafov/Brooo/refs/heads/main/arb_token.m3u
 
 #EXTINF:-1 tvg-id="Arb gunes" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azərbaycan kanalları", Arb gunes
-http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
+http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1746551919&playlistlength=5&shift=0&sid=coder_52&token=4b2c05ea8de4c31aed27ed5c05b643a6&user=37076
 
 #EXTINF:-1 tvg-id="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Rus kanalları",Первый канал
 http://ott-cdn.ucom.am/s14/04.m3u8
