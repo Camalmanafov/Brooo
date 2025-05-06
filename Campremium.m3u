@@ -160,7 +160,7 @@ http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", ARB 24 
-https://cdn900.canlitv.vin/arb24.m3u8?tkn=taKdAQlmjGixWaK1DYZ-Tw&tms=1746043114&hst=www.canlitv.vin&ip=91.191.195.223
+http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1746610740&playlistlength=5&shift=0&sid=coder_51&token=c6ee09940f6c21f1d28a2d67f5a35b99&user=37076
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/474px-Azad_Azerbaycan_TV_logosu.png" group-title="Azərbaycan kanalları", Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
