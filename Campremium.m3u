@@ -539,3 +539,6 @@ http://149.255.152.199/tmbtv.m3u8?bandwidth=2096&e=1746611265&playlistlength=5&s
 
 #EXTINF:-1 tvg-id="idman "tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="Azərbaycan kanalları",İDMAN TV
 https://str.yodacdn.net/idman/index.m3u8
+
+#EXTINF:-1 tvg-id="твц "tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="Rus kanalları",твц
+https://s112.ontvtime.ru/stream/FFA0945BCCDF67161820222426283053/feebac1bba8f0ea05de9c532bb4cee058sMseFrag257665?buf=1
