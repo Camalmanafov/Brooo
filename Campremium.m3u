@@ -545,3 +545,6 @@ https://s112.ontvtime.ru/stream/FFA0945BCCDF67161820222426283053/feebac1bba8f0ea
 
 #EXTINF:-1 tvg-id="рен тв "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",рен тв
 https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.FgyGuKL_asu1zGcehLL9LcuVCiwlfcDlo5EHW-p5rk8.106J_nE2iPVDJQYGrmOdzpHmceSTmqUoXsCaF0_YGVo.1747135062.4efc94c6a087070fa19577b468645391.ItsPcs3_55jumelXVEciVpsqAFZsQYi8IvwxNNyMAf8.1747134923.04648ee287d756ef80b24cd03f876b56
+
+#EXTINF:-1 tvg-id="стс "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",СТС
+https://tvcdnpotok.com/gY9CUJMZWbb07EjAQQlpWw/591/1746548793/index.m3u8
