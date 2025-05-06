@@ -537,3 +537,5 @@ https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="TMB "tvg-logo="https://upload.wikimedia.org/wikipedia/az/c/c2/TMB_TV_loqosu.png" group-title="Azərbaycan kanalları",TMB TV
 http://149.255.152.199/tmbtv.m3u8?bandwidth=2096&e=1746611265&playlistlength=5&shift=0&sid=coder_52&token=88c6c241f842ba8c81e7b4b21b973777&user=37076&bands=796.2096
 
+#EXTINF:-1 tvg-id="idman "tvg-logo="https://upload.wikimedia.org/wikipedia/az/c/c2/TMB_TV_loqosu.png" group-title="Azərbaycan kanalları",İDMAN TV
+https://str.yodacdn.net/idman/index.m3u8
