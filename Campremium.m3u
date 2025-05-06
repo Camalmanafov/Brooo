@@ -172,7 +172,7 @@ http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
 https://2meet.az/live/livestream.flv6395f13455d0eddddc72eb33-1664271536-1664260736
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Kanal_S_%282022%29.png" group-title="Azərbaycan kanalları", Kanal S
-http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
+http://149.255.152.199/kanals.m3u8?bandwidth=6096&e=1746629829&playlistlength=5&shift=0&sid=coder_57&token=e6ada73941cf8308efdf2b8e51e35ecb&user=37076
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/1280px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="Azərbaycan kanalları", Muz TV
 http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
