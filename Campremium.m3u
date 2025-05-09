@@ -553,3 +553,6 @@ https://river-1.rutube.ru/stream/genetta-520.ost.rutube.ru/kUPq736L4zC7X9cgIF337
 
 #EXTINF:-1 tvg-id="euro star"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Türk kanalları",Euro star
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
+
+#EXTINF:-1 tvg-id="рен"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Rus kanalları ",Ren tv int
+https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
