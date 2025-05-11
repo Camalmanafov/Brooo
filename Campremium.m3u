@@ -283,7 +283,7 @@ http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 http://86.57.198.251:8181/play/1022/index.m3u8
 
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Rus kanalları", Кино ТВ (HD)
-http://193.242.190.6:8099/88/index.m3u8
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Rus kanalları", Киноман (nHD)
 http://88.218.242.237:8000/play/a002
