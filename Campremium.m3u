@@ -558,5 +558,5 @@ https://canlitvulusal.xyz/live/eurostar/index.m3u8
 #EXTINF:-1 tvg-id="рен"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Rus kanalları", Ren tv int
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 
-#EXTINF:-1 tvg-id="рен"tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Rus kanalları", НТВ сериал
+#EXTINF:-1 tvg-id="нтв сериал"tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Rus kanalları", НТВ сериал
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
