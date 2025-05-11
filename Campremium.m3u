@@ -541,7 +541,7 @@ http://149.255.152.199/tmbtv.m3u8?bandwidth=2096&e=1746611265&playlistlength=5&s
 https://str.yodacdn.net/idman/index.m3u8
 
 #EXTINF:-1 tvg-id="твц "tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="Rus kanalları",твц
-https://s112.ontvtime.ru/stream/FFA0945BCCDF67161820222426283053/feebac1bba8f0ea05de9c532bb4cee058sMseFrag257665?buf=1
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="рен тв "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",рен тв
 https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.FgyGuKL_asu1zGcehLL9LcuVCiwlfcDlo5EHW-p5rk8.106J_nE2iPVDJQYGrmOdzpHmceSTmqUoXsCaF0_YGVo.1747135062.4efc94c6a087070fa19577b468645391.ItsPcs3_55jumelXVEciVpsqAFZsQYi8IvwxNNyMAf8.1747134923.04648ee287d756ef80b24cd03f876b56
