@@ -499,7 +499,7 @@ http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="Пятница! " tvg-logo="http://epg.one/img2/1003.png" group-title="Rus kanalları",Пятница HD
-https://live-s-106.uma.media/LIVE/LIVE:317843/HLS/live:friday/1746551745/6CD4jYGwLRvQtsJP8ZT6uw/live/317843_4/chunklist.m3u8
+https://live-s-105.uma.media/LIVE/LIVE:317843/HLS/live:friday/1746993646/5SBNxeRirlW8BYAGzYQRuw/live/317843_4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Рен ТВ (HD)" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Rus kanalları",Рен ТВ (HD)
 http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
