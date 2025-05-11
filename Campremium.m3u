@@ -543,7 +543,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="рен тв "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",рен тв
 https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.FgyGuKL_asu1zGcehLL9LcuVCiwlfcDlo5EHW-p5rk8.106J_nE2iPVDJQYGrmOdzpHmceSTmqUoXsCaF0_YGVo.1747135062.4efc94c6a087070fa19577b468645391.ItsPcs3_55jumelXVEciVpsqAFZsQYi8IvwxNNyMAf8.1747134923.04648ee287d756ef80b24cd03f876b56
 
-#EXTINF:-1 tvg-id="стс "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",СТС
+#EXTINF:-1 tvg-id="стс "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg/2560px-8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg.png" group-title="Rus kanalları",СТС
 https://streaming101.goodstream.cyou/live/296-req_offset_28000000-req_window_0-2k_v5.m3u8
 
 #EXTINF:-1 tvg-id="тв 3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg" group-title="Rus kanalları", тв 3
