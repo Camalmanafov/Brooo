@@ -499,7 +499,7 @@ http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 https://live-s-105.uma.media/LIVE/LIVE:317843/HLS/live:friday/1746993646/5SBNxeRirlW8BYAGzYQRuw/live/317843_4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Рен ТВ (HD)" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Rus kanalları",Рен ТВ (HD)
-http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
+https://a3569456003-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
 
 #EXTINF:-1 tvg-id="Че! " tvg-logo="https://iptvx.one/picons/che.png" group-title="Rus kanalları",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
