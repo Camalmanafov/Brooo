@@ -540,7 +540,7 @@ http://149.255.152.199/tmbtv.m3u8?bandwidth=2096&e=1746611265&playlistlength=5&s
 #EXTINF:-1 tvg-id="idman "tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="Azərbaycan kanalları",İDMAN TV
 https://str.yodacdn.net/idman/index.m3u8
 
-#EXTINF:-1 tvg-id="твц "tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="Rus kanalları",твц
+#EXTINF:-1 tvg-id="твц "tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Rus kanalları",твц
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="рен тв "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",рен тв
