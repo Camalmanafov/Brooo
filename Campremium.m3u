@@ -246,7 +246,7 @@ https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", TRT TURK EUROPA
 https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", TV8 HD TR (rez)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest?cb=20160310161553" group-title="Türk kanalları", TV8 HD TR (rez)
 https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=6i1zihqoe4on&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Xarici kanallar", Amedia Premium HD
