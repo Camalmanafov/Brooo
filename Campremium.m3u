@@ -475,7 +475,7 @@ http://130.193.73.10:8937/play/a02k
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="Arb" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azərbaycan kanalları", Arb
-http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1746812763&playlistlength=5&shift=0&sid=coder_62&token=5ff0603e32add7f6581df8992e5ad42f&user=37076
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 
 #EXTINF:-1 tvg-id="Arb gunes" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azərbaycan kanalları", Arb gunes
 http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1746551919&playlistlength=5&shift=0&sid=coder_52&token=4b2c05ea8de4c31aed27ed5c05b643a6&user=37076
