@@ -156,7 +156,8 @@ http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="ArasTV.tr" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="Türk kanalları", ARAS TV
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", ARB 24 
+#EXTINF:-1 tvg-id="ARB24" tvg-logo="https://i.imgur.com/JDCyWG.png" group-title="Türk kanalları", ARB 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/474px-Azad_Azerbaycan_TV_logosu.png" group-title="Azərbaycan kanalları", Azad Azerbaycan TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
