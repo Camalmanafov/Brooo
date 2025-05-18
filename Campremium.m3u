@@ -563,3 +563,6 @@ https://salam-mskth-49.rutube.ru/dive/river-5-551.rutube.ru/AHnbBNSm90AyHd3Q9Qfb
 
 #EXTINF:-1 tvg-id="food"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Rus kanalları", FOOD NETWORK
 http://ott-cdn.ucom.am/s18/04.m3u8
+
+#EXTINF:-1 tvg-id="history"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Rus kanalları", History HD
+http://65.21.85.175:8000/play/a01s/28232527.m3u8
