@@ -561,5 +561,5 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="ю"tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Rus kanalları", ю
 https://salam-mskth-49.rutube.ru/dive/river-5-551.rutube.ru/AHnbBNSm90AyHd3Q9QfbTA/stream/genetta-315.m9.rutube.ru/P6fVQAxZGaKUeeBojq__iA/1747597202/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 
-#EXTINF:-1 tvg-id="europa"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiQVc36IY_aKo5bBZ21UGSHWgZ3GZv9w-GWg&s" group-title="Rus kanalları", europa plus tv
-https://ad-hls-europaplus-ref.cdnvideo.ru/europaplus/eurptv2_site.smil/7cf6a7864d128828a8ec4f95444d3ba8--europaplus--hires_eptv_main_site.sdp--mono.m3u8?hls_proxy_host=837c0ff871f6de2e3718c7f7968149b8&zoid=srw2
+#EXTINF:-1 tvg-id="food"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiQVc36IY_aKo5bBZ21UGSHWgZ3GZv9w-GWg&s" group-title="Rus kanalları", FOOD NETWORK
+http://ott-cdn.ucom.am/s18/04.m3u8
