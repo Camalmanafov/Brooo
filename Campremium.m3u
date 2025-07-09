@@ -566,3 +566,6 @@ http://ott-cdn.ucom.am/s18/04.m3u8
 
 #EXTINF:-1 tvg-id="history"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Rus kanalları", History HD
 http://65.21.85.175:8000/play/a01s/28232527.m3u8
+
+#EXTINF:-1 tvg-id="history"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Türk kanalları", Sinema aksion
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
