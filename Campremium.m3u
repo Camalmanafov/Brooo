@@ -569,3 +569,6 @@ http://65.21.85.175:8000/play/a01s/28232527.m3u8
 
 #EXTINF:-1 tvg-id="history"tvg-logo="https://ewsat.com/img/SINEMA_AKSIYON.png" group-title="Türk kanalları", Sinema aksiyon
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
+
+#EXTINF:-1 tvg-id="history"tvg-logo="https://ewsat.com/img/SINEMA_AKSIYON.png" group-title="Türk kanalları", Sinema aile
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
