@@ -573,5 +573,5 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension
 #EXTINF:-1 tvg-id="history"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Türk kanalları", Sinema aile
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
 
-#EXTINF:-1 tvg-id="history"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Türk kanalları", Sinema aile
+#EXTINF:-1 tvg-id="history"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
