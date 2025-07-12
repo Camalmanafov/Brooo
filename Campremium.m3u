@@ -36,7 +36,7 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cbctv.az/assets/site/img/cbclogo.png" group-title="Azərbaycan kanalları", CBC TV
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Rus kanalları", Discovery (HD)
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://cdn.epg.one/img2/325.png" group-title="Rus kanalları", Discovery (HD)
 http://45.159.74.22/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Türk kanalları", DMAX
