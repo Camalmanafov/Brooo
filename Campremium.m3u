@@ -490,8 +490,7 @@ https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8
 http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Türk kanalları",Beyaz Tv
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
-
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 #EXTINF:-1 tvg-id="Cartoon Network (rus)" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Rus kanalları",Cartoon Network (rus)
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 
@@ -575,3 +574,4 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension
 
 #EXTINF:-1 tvg-id="history"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
