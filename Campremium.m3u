@@ -30,7 +30,7 @@ https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azərbaycan kanalları", Baku TV HD
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="Azərbaycan kanalları", CBC SPORT HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="Azərbaycan kanalları", CBC SPORT HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cbctv.az/assets/site/img/cbclogo.png" group-title="Azərbaycan kanalları", CBC TV
@@ -575,6 +575,7 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension
 
 #EXTINF:-1 tvg-id="history"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
 
 
 
