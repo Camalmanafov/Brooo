@@ -579,6 +579,9 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="7 tv"tvg-logo="https://iptvx.one/picons/7tv.png" group-title="Rus kanalları", 7 TV
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 
+#EXTINF:-1 tvg-id="Bein sports"tvg-logo="https://iptvx.one/picons/bein-sport-us.png" group-title="Xarici kanallar", BEIN SPORTS HD
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
 
 
 
