@@ -17,7 +17,6 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1 tvg-id="On4TV.tr" tvg-logo="https://i.imgur.com/qGRa1KI.png" group-title="Türk kanalları", On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Türk kanalları", 360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
@@ -584,6 +583,9 @@ http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="Cnbc"tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="Xarici kanallar", CNBC HD
 http://fl3.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="Dunya tv"tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="Azərbaycan kanalları", Dünya Tv
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 
 
 
