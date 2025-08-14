@@ -582,8 +582,9 @@ http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-id="Bein sports"tvg-logo="https://iptvx.one/picons/bein-sport-us.png" group-title="Xarici kanallar", BEIN SPORTS HD
 http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="Bein sports"tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="Xarici kanallar", CNBC HD
+#EXTINF:-1 tvg-id="Cnbc"tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="Xarici kanallar", CNBC HD
 http://fl3.moveonjoy.com/CNBC/index.m3u8
+
 
 
 
