@@ -584,8 +584,9 @@ http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="Cnbc"tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="Xarici kanallar", CNBC HD
 http://fl3.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="Dunya tv"tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="Azərbaycan kanalları", Dünya Tv
+#EXTINF:-1 tvg-id="Dunya tv"tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="Azərbaycan kanalları", Dünya Tv
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+
 
 
 
