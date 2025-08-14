@@ -576,6 +576,9 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension
 #EXTINF:-1 tvg-id="history"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
+#EXTINF:-1 tvg-id="7 tv"tvg-logo="https://iptvx.one/picons/7tv.png" group-title="Rus kanalları", 7 TV
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+
 
 
 
