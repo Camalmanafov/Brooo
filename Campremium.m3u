@@ -180,7 +180,7 @@ http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/bb/Real_TV_loqosu.png" group-title="Azərbaycan kanalları", Real TV
 http://135.181.115.81:8000/play/a01t/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Space_TV_loqosu_%282023-h.h.%29.png/948px-Space_TV_loqosu_%282023-h.h.%29.png" group-title="Azərbaycan kanalları", Space TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Space_TV_loqosu_%282021-2023%29.png/320px-Space_TV_loqosu_%282021-2023%29.png" group-title="Azərbaycan kanalları", SPACE TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", TMB Azerbaycan
@@ -575,5 +575,6 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension
 
 #EXTINF:-1 tvg-id="history"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
 
 
