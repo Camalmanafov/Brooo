@@ -149,7 +149,7 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Türk kanalları", Cine5 HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://epgx.site/p/animal-planet-eu.png" group-title="Rus kanalları", Animal Planet (HD)
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://cdn.epg.one/img2/990.png" group-title="Rus kanalları", ANİMAL PLANET (HD)
 http://45.159.74.22/AnimalPlanet/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="ArasTV.tr" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="Türk kanalları", ARAS TV
@@ -586,6 +586,7 @@ http://fl3.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="Dunya tv"tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="Azərbaycan kanalları", Dünya Tv
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+
 
 
 
