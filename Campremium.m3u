@@ -537,8 +537,7 @@ https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2
 https://streaming101.goodstream.cyou/live/296-req_offset_28000000-req_window_0-2k_v5.m3u8
 
 #EXTINF:-1 tvg-id="тв 3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg" group-title="Rus kanalları", тв 3
-https://salam-mskth-28.rutube.ru/dive/river-5-513.rutube.ru/9pNjiABikK_6aYm4-ZOjMA/stream/genetta-319.m9.rutube.ru/Vr5b9u8JoBaZ9A6f0-AY4g/1747596860/7bf12d9c050f9a7ef3728db5730432ae/720p_stream.m3u8
-
+https://s107.ontvtime.ru/stream/FFA0945BCCDF67161820222426283048/f4a4f07a5bfdc4ed1e98ca9decb16ecffsMseInit
 #EXTINF:-1 tvg-id="euro star"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Türk kanalları", Euro star
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
 
@@ -590,6 +589,7 @@ https://github.com/Camalmanafov/Brooo/raw/2f0ab9e2c402ec02e43032e5b7f430a292f717
 #EXTM3U
 #EXTINF:-1 channel-id="AlJazeeraEnglish" channel-number="1235" tvg-name="Al Jazeera English" tvc-guide-placeholders="3600" tvc-guide-title="Al Jazeera English | Live" tvc-guide-description="Stay Informed: Watch Al Jazeera English Live" tvc-guide-art="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8" tvg-logo="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8",Al Jazeera English
 https://youtu.be/HpTur5mzAMg?si=cB9w19tBln7XcBig
+
 
 
 
