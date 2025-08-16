@@ -593,6 +593,9 @@ https://hls.tvrus.t62a.com/1755385420/yiDmh34iF_swCvWYrxs-gA/bemtv/stream336/str
 #EXTINF:-1 tvg-id="camal"tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png" group-title="Test kanalları", National Geographic test
 https://s.tivix.co/MRimF2FgpPSZe16KnKYABw/601/1755390538/index.m3u8
 
+#EXTINF:-1 tvg-id="yaban"tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png" group-title="Türk kanalları", YABAN TV HD
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w294281360.m3u8?hash=9f52ef349f941a9ec5775f8cbccac901
+
 
 
 
