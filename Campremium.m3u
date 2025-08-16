@@ -587,9 +587,8 @@ http://45.159.74.22/Fox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="camal"tvg-logo="https://cdn.epg.one/img2/103.png" group-title="Azərbaycan kanalları", Camal Tv
 https://github.com/Camalmanafov/Brooo/raw/2f0ab9e2c402ec02e43032e5b7f430a292f717bd/InShot_20250816_154148469.mp4
 
-#EXTM3U
-#EXTINF:-1 channel-id="AlJazeeraEnglish" channel-number="1235" tvg-name="Al Jazeera English" tvc-guide-placeholders="3600" tvc-guide-title="Al Jazeera English | Live" tvc-guide-description="Stay Informed: Watch Al Jazeera English Live" tvc-guide-art="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8" tvg-logo="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8",Al Jazeera English
-https://youtu.be/HpTur5mzAMg?si=cB9w19tBln7XcBig
+
+
 
 
 
