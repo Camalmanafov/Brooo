@@ -260,15 +260,6 @@ http://178.219.128.68:64889/SKYNEWS
 #EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Rus kanalları", Известия 
 http://65.21.85.175:8000/play/a01h/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="Rus kanalları", FlixSnip (EDTV 576p)
-http://130.193.73.10:8937/play/a02r
-
-#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Rus kanalları", Viasat Kino World (EDTV 480p)
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Rus kanalları", Viasat Kino Comedy (HD ready)
-https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Rus kanalları", Viju TV1000 (HD)
 http://185.50.148.2:7703/TV1000/index.m3u8
 
@@ -592,6 +583,7 @@ http://45.159.74.22/TLC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fx HD"tvg-logo="https://cdn.epg.one/img2/1031.png" group-title="Rus kanalları", Fx HD
 http://45.159.74.22/Fox/tracks-v1a1/mono.m3u8
+
 
 
 
