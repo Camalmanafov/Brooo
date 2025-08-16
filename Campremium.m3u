@@ -133,7 +133,8 @@ https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Rus kanalları", Перец
 http://213.91.178.133:8000/play/a0ay
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/1200px-%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg.png" group-title="Rus kanalları", Мир 24 (HD)
+
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/1200px-%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg.png" group-title="Rus kanalları", Мир 24 (HD)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Rus kanalları", Волгоград 24 (HD)
@@ -591,6 +592,7 @@ http://45.159.74.22/TLC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fx HD"tvg-logo="https://cdn.epg.one/img2/1031.png" group-title="Rus kanalları", Fx HD
 http://45.159.74.22/Fox/tracks-v1a1/mono.m3u8
+
 
 
 
