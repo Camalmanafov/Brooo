@@ -590,8 +590,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="TLC HD"tvg-logo="https://cdn.epg.one/img2/425.png" group-title="Xarici kanallar", TLC HD
 http://45.159.74.22/TLC/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Fx HD"tvg-logo="https://cdn.epg.one/img2/425.png" group-title="Xarici kanallar", Fx HD
+#EXTINF:-1 tvg-id="Fx HD"tvg-logo="https://cdn.epg.one/img2/1031.png" group-title="Xarici kanallar", Fx HD
 http://45.159.74.22/Fox/tracks-v1a1/mono.m3u8
+
 
 
 
