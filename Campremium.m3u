@@ -588,7 +588,8 @@ http://45.159.74.22/Fox/tracks-v1a1/mono.m3u8
 https://github.com/Camalmanafov/Brooo/raw/2f0ab9e2c402ec02e43032e5b7f430a292f717bd/InShot_20250816_154148469.mp4
 
 #EXTINF:-1 tvg-id="camal"tvg-logo="https://cdn.epg.one/img2/103.png" group-title="Azərbaycan kanalları", Arb24 test
-https://www.youtube.com/live/FIH5AhYiHbw?si=GXEpbdBMi_DRCMyy
+<iframe width="600" height="400" src="https://www.youtube.com/embed/?autoplay=0" name="Can" scrolling="no" style="border:3px solid #fe0100; marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 
 
