@@ -531,7 +531,7 @@ https://str.yodacdn.net/idman/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="рен тв "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",рен тв
-https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.FgyGuKL_asu1zGcehLL9LcuVCiwlfcDlo5EHW-p5rk8.106J_nE2iPVDJQYGrmOdzpHmceSTmqUoXsCaF0_YGVo.1747135062.4efc94c6a087070fa19577b468645391.ItsPcs3_55jumelXVEciVpsqAFZsQYi8IvwxNNyMAf8.1747134923.04648ee287d756ef80b24cd03f876b56
+https://s.tivix.co/6UXNxcfKnYW1nkLdGOJ85Q/543/1755389683/index.m3u8
 
 #EXTINF:-1 tvg-id="стс "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg/2560px-8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg.png" group-title="Rus kanalları",СТС
 https://streaming101.goodstream.cyou/live/296-req_offset_28000000-req_window_0-2k_v5.m3u8
@@ -589,6 +589,7 @@ https://github.com/Camalmanafov/Brooo/raw/2f0ab9e2c402ec02e43032e5b7f430a292f717
 
 #EXTINF:-1 tvg-id="camal"tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png" group-title="Azərbaycan kanalları", Tv rus+
 https://hls.tvrus.t62a.com/1755385420/yiDmh34iF_swCvWYrxs-gA/bemtv/stream336/stream0.m3u8
+
 
 
 
