@@ -596,8 +596,9 @@ https://s.tivix.co/MRimF2FgpPSZe16KnKYABw/601/1755390538/index.m3u8
 #EXTINF:-1 tvg-id="yaban"tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png" group-title="Türk kanalları", YABAN TV HD
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w294281360.m3u8?hash=9f52ef349f941a9ec5775f8cbccac901
 
-#EXTINF:-1 tvg-id="cnn"tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png" group-title="Türk kanalları", CNN İNTERNATİONAL
+#EXTINF:-1 tvg-id="cnn"tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Türk kanalları", CNN İNTERNATİONAL
 http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+
 
 
 
