@@ -117,7 +117,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Rus kanalları", СТС Kids
-http://stream02.vnet.am/DisneyChannel/mono.m3u8
+http://195.26.83.96:7006/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="Rus kanalları", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -598,6 +598,7 @@ http://178.217.72.66:8080/REN_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="dw"tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Rus kanalları", Deutsche Welle Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
 
 
 
