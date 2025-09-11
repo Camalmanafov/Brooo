@@ -473,9 +473,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gune
 #EXTINF:-1 tvg-id="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Rus kanalları",Первый канал
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:-1 tvg-id="Show Plus TV" tvg-logo="http://assets.dn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azərbaycan kanalları",Show plus Tv
-https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8
-
 #EXTINF:-1 tvg-id="SuperTurk Max" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" group-title="Türk kanalları",Super Türk Max
 http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 
@@ -598,6 +595,9 @@ https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w294281360.m3u8?hash
 
 #EXTINF:-1 tvg-id="cnn"tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Xarici kanallar", CNN İNTERNATİONAL
 http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+
+#EXTINF:-1 tvg-id="cnn"tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Rus kanalları", 2+2
+https://s.domatv.net/e6hwlwxoG5vhhZ9v2KcxTQ/238/1757635060/index.m3u8
 
 
 
