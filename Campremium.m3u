@@ -482,9 +482,6 @@ http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Пятница! " tvg-logo="http://epg.one/img2/1003.png" group-title="Rus kanalları",Пятница HD
 https://live-s-105.uma.media/LIVE/LIVE:317843/HLS/live:friday/1746993646/5SBNxeRirlW8BYAGzYQRuw/live/317843_4/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Рен ТВ (HD)" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Rus kanalları",Рен ТВ (HD)
-http://178.217.72.66:8080/REN_TV/index.m3u8
-
 #EXTINF:-1 tvg-id="Че! " tvg-logo="https://iptvx.one/picons/che.png" group-title="Rus kanalları",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 
@@ -595,6 +592,7 @@ http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
 #EXTINF:-1 tvg-id="cnn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png" group-title="Rus kanalları", 2+2
 https://s.domatv.net/e6hwlwxoG5vhhZ9v2KcxTQ/238/1757635060/index.m3u8
+
 
 
 
