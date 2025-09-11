@@ -593,6 +593,8 @@ http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="cnn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png" group-title="Rus kanalları", 2+2
 https://s.domatv.net/e6hwlwxoG5vhhZ9v2KcxTQ/238/1757635060/index.m3u8
 
+#EXTINF:-1 tvg-id="ren"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png" group-title="Rus kanalları", Ren tv HD
+http://178.217.72.66:8080/REN_TV/index.m3u8
 
 
 
