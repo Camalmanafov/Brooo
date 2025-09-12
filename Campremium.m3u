@@ -543,7 +543,7 @@ https://salam-mskth-49.rutube.ru/dive/river-5-551.rutube.ru/AHnbBNSm90AyHd3Q9Qfb
 http://ott-cdn.ucom.am/s18/04.m3u8
 
 #EXTINF:-1 tvg-id="history"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Rus kanalları", History HD
-http://65.21.85.175:8000/play/a01s/28232527.m3u8
+https://s.tivix.co/HZSPiZmqxSQ3oda3bl72Tg/114/1757697829/index.m3u8
 
 #EXTINF:-1 tvg-id="history"tvg-logo="https://ewsat.com/img/SINEMA_AKSIYON.png" group-title="Türk kanalları", Sinema aksiyon
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
@@ -595,6 +595,7 @@ http://178.217.72.66:8080/REN_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="dw"tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Rus kanalları", Deutsche Welle Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
 
 
 
