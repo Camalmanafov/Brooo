@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Rus kanalları", RU TV (HD)
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
-#EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://i.imgur.com/e2KFL0R.png" group-title="Azərbaycan kanalları", Real TV
-http://149.255.152.199/real.m3u8?bandwidth=2096&e=1746610127&playlistlength=5&shift=0&sid=coder_79&token=cb24b6f511eb567c92ac444034db48d5&user=37076
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="Türk kanalları", SHOW MAX
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 
@@ -404,7 +401,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Rus kanalları", НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Rus kanalları", NTV HD (rus,)
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Rus kanalları", NTV HD (rus)
 https://s.tivix.co/ySCXLjNhFr8l2OAKUkH_KA/537/1757696272/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Rus kanalları", НТВ Стиль (WSVGA)
@@ -598,6 +595,7 @@ http://178.217.72.66:8080/REN_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="dw"tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Rus kanalları", Deutsche Welle Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
 
 
 
