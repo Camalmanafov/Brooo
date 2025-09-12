@@ -33,7 +33,7 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://cdn.epg.one/img2/325.png" group-title="Rus kanalları", Discovery (HD)
-http://45.159.74.22/DiscoveryChannel/tracks-v1a2/mono.m3u8
+https://s.tivix.co/kr99e4KBzEPjISFuiPDDcA/520/1757697608/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Türk kanalları", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
@@ -595,6 +595,7 @@ http://178.217.72.66:8080/REN_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="dw"tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Rus kanalları", Deutsche Welle Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
 
 
 
