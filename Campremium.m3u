@@ -596,8 +596,9 @@ http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1 tvg-id="dw"tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Rus kanalları", Deutsche Welle Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
-#EXTINF:-1 tvg-id="arb24hd"tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Azərbaycan kanalları", ARB 24 HD
+#EXTINF:-1 tvg-id="arb24hd"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" group-title="Azərbaycan kanalları", ARB 24 HD
 http://85.132.81.184:8080/arb/live/index.m3u8
+
 
 
 
