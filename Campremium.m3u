@@ -585,7 +585,7 @@ https://s.tivix.co/MRimF2FgpPSZe16KnKYABw/601/1755390538/index.m3u8
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w294281360.m3u8?hash=9f52ef349f941a9ec5775f8cbccac901
 
 #EXTINF:-1 tvg-id="cnn"tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Xarici kanallar", CNN İNTERNATİONAL
-http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="cnn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png" group-title="Rus kanalları", 2+2
 https://s.domatv.net/e6hwlwxoG5vhhZ9v2KcxTQ/238/1757635060/index.m3u8
@@ -598,6 +598,7 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-id="arb24hd"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" group-title="Azərbaycan kanalları", ARB 24 HD
 http://85.132.81.184:8080/arb/live/index.m3u8
+
 
 
 
