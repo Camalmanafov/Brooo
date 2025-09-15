@@ -269,8 +269,8 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Rus kanalları", Киноман (nHD)
 http://88.218.242.237:8000/play/a002
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", CARTOON NETWORK TR
-http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/30701
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/L5qn3w5s/Cartoon-Network-2010-logo-svg.png" group-title="Türk kanalları", CARTOON NETWORK HD
+https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", TRT Cocuk HD TR
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -607,6 +607,7 @@ https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="birtv"tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" group-title="Türk kanalları", BLOOMBERG HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
 
 
 
