@@ -602,6 +602,9 @@ http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1 tvg-id="movie"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_T%C3%BCrk.png" group-title="Türk kanalları", MOVİE SMART TÜRK
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 
+#EXTINF:-1 tvg-id="birtv"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_T%C3%BCrk.png" group-title="Türk kanalları", MOVİE SMART TÜRK
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+
 
 
 
