@@ -93,7 +93,7 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Türk kanalları", 24 TV HD
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+https://tv.ensonhaber.com/tv24/tv24.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Türk kanalları", Kanal D HD
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -613,6 +613,7 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cnb-e"tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Türk kanalları", CNBC-E
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+
 
 
 
