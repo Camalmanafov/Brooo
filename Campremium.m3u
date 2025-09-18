@@ -626,6 +626,10 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="cgtn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Türk kanalları", CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
+#EXTINF:-1 tvg-id="cgtn"tvg-logo="http://team.ga/images/chIcons/2556.png" group-title="Azərbaycan kanalları", Music AZ HIT
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+
+
 
 
 
