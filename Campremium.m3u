@@ -632,6 +632,8 @@ https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 tvg-id="sts love"tvg-logo="https://images.seeklogo.com/logo-png/35/2/ctc-love-logo-png_seeklogo-356323.png" group-title="Rus kanalları", STS Love
 http://194.143.148.28:8080/CTC_LOVE/index.m3u8
 
+#EXTINF:-1 tvg-id="htspor"tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Türk kanalları", HT SPOR
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
 
 
 
