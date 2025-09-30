@@ -476,8 +476,8 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f
 #EXTINF:-1 tvg-id="Cartoon Network (rus)" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Rus kanalları",Cartoon Network (rus)
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="Пятница! " tvg-logo="http://epg.one/img2/1003.png" group-title="Rus kanalları",Пятница HD
-https://live-s-105.uma.media/LIVE/LIVE:317843/HLS/live:friday/1746993646/5SBNxeRirlW8BYAGzYQRuw/live/317843_4/chunklist.m3u8
+#EXTINF:-1 tvg-id="Пятница! " tvg-logo="http://epg.one/img2/1003.png" group-title="Rus kanalları",Пятница 
+https://vod.tuva.ru/friday/index.m3u8
 
 #EXTINF:-1 tvg-id="Че! " tvg-logo="https://iptvx.one/picons/che.png" group-title="Rus kanalları",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
@@ -634,6 +634,7 @@ http://194.143.148.28:8080/CTC_LOVE/index.m3u8
 
 #EXTINF:-1 tvg-id="htspor"tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Türk kanalları", HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
+
 
 
 
