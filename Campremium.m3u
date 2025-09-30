@@ -437,8 +437,8 @@ https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Türk kanalları", A Haber HD
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", A Spor
-http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Türk kanalları", A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" group-title="Azərbaycan kanalları", AGRO TV Azərbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
@@ -634,6 +634,7 @@ http://194.143.148.28:8080/CTC_LOVE/index.m3u8
 
 #EXTINF:-1 tvg-id="htspor"tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Türk kanalları", HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
+
 
 
 
