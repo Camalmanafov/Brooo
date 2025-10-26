@@ -638,6 +638,9 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-id="htspor"tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png" group-title="Türk kanalları", RETRO TV
 https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="Bein"tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png" group-title="Türk kanalları", BEİN SPORTS 1
+https://kodiaq.zirvedesin24.sbs/yayinzirve.m3u8
+
 
 
 
