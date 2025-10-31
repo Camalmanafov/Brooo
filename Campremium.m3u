@@ -6,7 +6,7 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Türk kanalları", TRT Belgesel HD
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master_3.m3u8
 
 #EXTINF:-1 tvg-id="Kanal12.tr" tvg-logo="https://i.imgur.com/51xCkXG.png" group-title="Türk kanalları", Kanal 12 HD
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
@@ -640,6 +640,7 @@ https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Bein"tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png" group-title="Türk kanalları", BEİN SPORTS 1
 https://kodiaq.zirvedesin24.sbs/yayinzirve.m3u8
+
 
 
 
