@@ -96,7 +96,7 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Türk kanalları", Kanal D HD
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Türk kanalları", KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
@@ -640,6 +640,7 @@ https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Bein"tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png" group-title="Türk kanalları", BEİN SPORTS 1
 https://kodiaq.zirvedesin24.sbs/yayinzirve.m3u8
+
 
 
 
