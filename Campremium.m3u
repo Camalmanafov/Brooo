@@ -644,6 +644,9 @@ https://kodiaq.zirvedesin24.sbs/yayinzirve.m3u8
 #EXTINF:-1 tvg-id="ktv music"tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png" group-title="Azərbaycan kanalları", KTV MUSİC
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 
+#EXTINF:-1 tvg-id="BBC NEWS"tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="Xarici kanallar", BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
 
 
 
