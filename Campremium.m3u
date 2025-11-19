@@ -426,7 +426,7 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", ТНТ4 HD
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+https://s.domatv.net/rHO1SM84CNglFaCpScjFKw/105/1763590094/index.m3u8
 
 #EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Radio rus", Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
@@ -655,6 +655,7 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rbk"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
 
 
 
