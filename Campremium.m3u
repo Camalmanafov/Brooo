@@ -519,7 +519,7 @@ https://str.yodacdn.net/idman/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ren "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",Ren tv 
-https://s.domatv.net/HoOKhMkEVcDLUlXCiyQBWw/543/1757635559/index.m3u8
+https://frv2.sysnet.top/video/nCiyvXfLAJcNwpHRlVtSCQ/8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="стс "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg/2560px-8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg.png" group-title="Rus kanalları",СТС
 https://streaming101.goodstream.cyou/live/296-req_offset_28000000-req_window_0-2k_v5.m3u8
@@ -658,6 +658,7 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="Кинокомедия"tvg-logo="https://gpm-kit.ru/thumbs/510x725c/_visual/projects/kinokomediya/logo-11.svg" group-title="Rus kanalları",Кинокомедия
 https://s.tivix.co/efHd12kFKsQwMb_wEjh_oQ/129/1763598063/index.m3u8
+
 
 
 
