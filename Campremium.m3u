@@ -648,13 +648,14 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="eurokino"tvg-logo="https://www.cableman.ru/sites/default/files/evrokino.png" group-title="Rus kanalları",Еврокино
-http://178.212.71.253:8000/play/66/index.m3u8
+https://s.tivix.co/ggogKfKWPRiUGxzlqo3xYQ/126/1763590848/index.m3u8
 
 #EXTINF:-1 tvg-id="sanson tv"tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Rus kanalları",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rbk"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
 
 
 
