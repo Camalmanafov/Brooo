@@ -126,7 +126,7 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Rus kanalları", Перец
-https://s.tivix.co/ZGYMyhAFQM4tGWwUv6Fg8A/526/1757684083/index.m3u8
+https://s.tivix.co/WTuaIM7jbjZiEZf7soKY8w/526/1763592670/index.m3u8
 
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/1200px-%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg.png" group-title="Rus kanalları", Мир 24 (HD)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -655,6 +655,7 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rbk"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
 
 
 
