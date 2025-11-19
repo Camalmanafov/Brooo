@@ -189,7 +189,7 @@ https://live.itv.az/itv.m3u8
 http://185.32.44.154/NationalGeographicHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", ID Xtra
-http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+https://s.tivix.co/i8Cu_xk8GmsdTqf8F2qgPg/570/1763591084/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Akit TV HD TR
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
@@ -655,6 +655,7 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rbk"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
 
 
 
