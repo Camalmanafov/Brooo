@@ -413,8 +413,8 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="http://epg.it999.ru/img2/6763.png" group-title="Rus kanalları", Раменское ТВ (HD ready)
 https://e10-ll.facecast.net/rtv/0.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", СТС sd
-http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", СТС HD
+https://s.domatv.net/XcqnCzv7yR5TRD1DbGwf4Q/591/1763590318/index.m3u8
 
 #EXTINF:-1 tvg-id="super" tvg-logo="https://epgx.site/p/subbota.png" group-title="Rus kanalları", Суббота (HD)
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
@@ -655,6 +655,7 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rbk"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
 
 
 
