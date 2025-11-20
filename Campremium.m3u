@@ -662,6 +662,9 @@ https://s.tivix.co/efHd12kFKsQwMb_wEjh_oQ/129/1763598063/index.m3u8
 #EXTINF:-1 tvg-id="fenerbahce"tvg-logo="https://www.pngfind.com/pngs/m/334-3346844_fenerbahce-logo-fenerbahe-hd-png-download.png" group-title="Türk kanalları",FENERBAHÇE TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="globalnews"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Global_News_%282022%29.svg" group-title="Xarici kanallar",Global news(Kanada)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
 
 
 
