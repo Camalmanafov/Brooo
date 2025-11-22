@@ -668,6 +668,10 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 tvg-id="Ayaz tv"tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png" group-title="Azərbaycan kanalları",Ayaz Tv
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 
+#EXTINF:-1 tvg-id="discovery"tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Xarici kanallar",Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
+
 
 
 
