@@ -665,6 +665,9 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="globalnews"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Global_News_%282022%29.svg" group-title="Xarici kanallar",Global news(Kanada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 
+#EXTINF:-1 tvg-id="Ayaz tv"tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png" group-title="Azərbaycan kanalları",Ayaz Tv
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+
 
 
 
