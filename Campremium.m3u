@@ -254,8 +254,8 @@ http://178.219.128.68:64889/SKYNEWS
 #EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Rus kanalları", Известия 
 http://65.21.85.175:8000/play/a01h/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Rus kanalları", Viju TV1000 (HD)
-https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="Rus kanalları", Viju TV1000 (HD)
+http://46.8.46.14/tv1000/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Rus kanalları", Trash (HD)
 http://185.23.80.28:8080/TRASH/index.m3u8?token=test
@@ -670,6 +670,7 @@ https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/
 
 #EXTINF:-1 tvg-id="discovery"tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Xarici kanallar",Discovery Channel
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
 
 
 
