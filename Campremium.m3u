@@ -519,7 +519,7 @@ https://str.yodacdn.net/idman/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ren "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",Ren tv 
-https://frv2.sysnet.top/video/nCiyvXfLAJcNwpHRlVtSCQ/8/playlist.m3u8
+https://node2-az-baku-delta.streamy.group/stream/5uds44whxube2kv68wu3u755safcudbfyext3zssgbgssk87xyfmtre72pqe2rwzqskswvx39dmk8qfnjezh3638mjmr3tsp36qzt9hkbbm4qw2b5zmufksdh59zr5qfrtap8xf8uzzb2my38ihcdh89nbqi379z9qq9dscjkwfbs===.m3u8
 
 #EXTINF:-1 tvg-id="стс "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg/2560px-8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg.png" group-title="Rus kanalları",СТС
 https://streaming101.goodstream.cyou/live/296-req_offset_28000000-req_window_0-2k_v5.m3u8
@@ -676,6 +676,7 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Türk kanalları",TRT SPOR YILDIZ
 https://dga1op10s1u3lep.7d9c05a7181039.click/live/selcukobs1/playlist.m3u8
+
 
 
 
