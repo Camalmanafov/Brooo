@@ -582,7 +582,7 @@ https://hls.tvrus.t62a.com/1755385420/yiDmh34iF_swCvWYrxs-gA/bemtv/stream336/str
 https://s.tivix.co/MRimF2FgpPSZe16KnKYABw/601/1755390538/index.m3u8
 
 #EXTINF:-1 tvg-id="yaban"tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png" group-title="Türk kanalları", YABAN TV HD
-https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w190862655.m3u8
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1371959794.m3u8
 
 #EXTINF:-1 tvg-id="cnn"tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Xarici kanallar", CNN İNTERNATİONAL
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -673,6 +673,7 @@ https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Rus kanalları",Ника тв 
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.ts.m3u8
+
 
 
 
