@@ -33,7 +33,7 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://cdn.epg.one/img2/325.png" group-title="Rus kanalları", Discovery (HD)
-https://s.viks.tv/Ywv59UdsFYxelRWh-bj64Q/520/1763599683/index.m3u8
+https://node1-az-baku-delta.streamy.group/stream/dpnv9kgxcsy3xkkgi386ffzpv84ztxsm3bqemsx53a7dbw992vyigsd4kr3ytp2ue96bgczjas5iziciher5r9inps38um5n849w9zy72eatg3ng9mc8dgndgweya56pjmbmj85kh8q6i4jjkr7pmqubwka2rxwjvn6wgrci5mpnu===.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Türk kanalları", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
@@ -676,6 +676,7 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Türk kanalları",TRT SPOR YILDIZ
 https://dga1op10s1u3lep.7d9c05a7181039.click/live/selcukobs1/playlist.m3u8
+
 
 
 
