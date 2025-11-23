@@ -21,7 +21,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="Azərbaycan kanalları", Az TV HD
-https://str.yodacdn.net/aztv/index.m3u8
+https://node2-az-baku-delta.streamy.group/stream/k8uc5rhip5qh53xxrfti2u3su7d6yx5xyw6ek5ne642xs9yt5qwefxtvru8rsyiwb996pshgs8rrrjk9srsnbtkabzqtritfkvj2xban6i4p3hherddr82g53buu2xmk6i7695sqxih4mv8c8qu3guibpap9fzkf2xfwqgkxd43k4===.m3u8
 
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azərbaycan kanalları", Baku TV HD
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
@@ -676,6 +676,7 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Türk kanalları",TRT SPOR YILDIZ
 https://dga1op10s1u3lep.7d9c05a7181039.click/live/selcukobs1/playlist.m3u8
+
 
 
 
