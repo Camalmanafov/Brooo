@@ -144,7 +144,7 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://cdn.epg.one/img2/990.png" group-title="Rus kanalları", ANİMAL PLANET (HD)
-http://45.159.74.22/AnimalPlanet/tracks-v1a2/mono.m3u8
+https://node1-az-baku-delta.streamy.group/stream/yudgbzku9i96uc5q5msfvb84jvbqg4j6nnynw89s2btfygtwyar6z7287r8zpmukpapy6vkm25aqx2bts8xwdrv67466v6h68x8wvgkwx5kus49yhbn4nfm33vq5sw5bjgep2chgvtiirv8bz5awba6b3n7fc3wsez559fn7sypi8===.m3u8
 
 #EXTINF:-1 tvg-id="ArasTV.tr" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="Türk kanalları", ARAS TV
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
@@ -676,6 +676,7 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Türk kanalları",TRT SPOR YILDIZ
 https://dga1op10s1u3lep.7d9c05a7181039.click/live/selcukobs1/playlist.m3u8
+
 
 
 
