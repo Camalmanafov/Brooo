@@ -473,8 +473,8 @@ http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Türk kanalları",Beyaz Tv
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 
-#EXTINF:-1 tvg-id="Cartoon Network (rus)" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Rus kanalları",Cartoon Network (rus)
-http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="Cartoon Network (rus)" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Rus kanalları",CARTOON NETWORK HD (rus)
+https://node2-az-baku-delta.streamy.group/stream/6rdqazmdir7cp54ijnje87yd3mebesncijiqmt9b6hnqbtqa8cbvujfrnhnqqybmfwznkzczm9zkrj5vvwpmm738x5qhqhar3gwf85abu8vbas5krvw5zh677z46f8bcbks5q4b2ma4a9cf6p8yqdm73qeajrfckhzsv4sg494s3nefsgxfwmy75.m3u8
 
 #EXTINF:-1 tvg-id="Пятница! " tvg-logo="http://epg.one/img2/1003.png" group-title="Rus kanalları",Пятница 
 https://vod.tuva.ru/friday/index.m3u8
@@ -676,6 +676,7 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Türk kanalları",TRT SPOR YILDIZ
 https://dga1op10s1u3lep.7d9c05a7181039.click/live/selcukobs1/playlist.m3u8
+
 
 
 
