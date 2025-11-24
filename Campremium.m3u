@@ -677,8 +677,9 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Türk kanalları",TRT SPOR YILDIZ
 https://dga1op10s1u3lep.7d9c05a7181039.click/live/selcukobs1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRT SPOR YİLDİZ"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Türk kanalları",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-id="TRT SPOR YİLDİZ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg" group-title="Türk kanalları",TRT SPOR YILDIZ
 https://node2-az-baku-delta.streamy.group/stream/qpw24jrtvvpgjfbkzv9ibwaw6mqvm2mj9vifxbnm5nhafjx8px9m94p3e638itd7vmm5gu84fxnx9u63kgjpehww897vrx2nzm8q4enqtj6ms5283274rujei5cgt82uu96wc7aht76p9p2xj7sz26s6bpinzfj9waxd2mpw6zytu===.m3u8
+
 
 
 
