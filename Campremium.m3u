@@ -33,7 +33,7 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://cdn.epg.one/img2/325.png" group-title="Rus kanalları", Discovery (HD)
-https://node1-az-baku-delta.streamy.group/stream/dpnv9kgxcsy3xkkgi386ffzpv84ztxsm3bqemsx53a7dbw992vyigsd4kr3ytp2ue96bgczjas5iziciher5r9inps38um5n849w9zy72eatg3ng9mc8dgndgweya56pjmbmj85kh8q6i4jjkr7pmqubwka2rxwjvn6wgrci5mpnu===.m3u8
+https://node1-az-baku-delta.streamy.group/stream/xn2wbf3n9r83ejwtszcatjjaew6thwt7wqbyaprsgecgz6xzs4bdtdxxqqtbycgtmr35tv3ge88nm57cjcv8dnrgjvtsdc748paa2z7pvh53hwvdju3cmztqc6nmw39g4a77w3azgii2pqf76m5wrcmm4n79b9f8ubba4hqnev45q===.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Türk kanalları", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
@@ -685,6 +685,7 @@ https://node1-az-baku-delta.streamy.group/stream/5pfgxirw74q3netzz4tyj64v5tzfkfx
 
 #EXTINF:-1 tvg-id="Euronews"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="Rus kanalları",EURONEWS (RU)
 https://node1-az-baku-delta.streamy.group/stream/aik4huvyr49qb7cz3vnm3eypinxk2z6m3myrf8xfd4xdg3pdem4zhbbett3fx7hqtsqsyb7ukrtr2qrvqxpf93vs4hgdgh4wa9jpmhwfp97z7va5pspv5yaiwny76v3jd7mtsd3r9b4t5acdr8ippdanfv9437gctktb4nufb7setq3t.m3u8
+
 
 
 
