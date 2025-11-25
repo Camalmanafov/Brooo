@@ -60,7 +60,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Rus kanalları", Nat Geo Wild (rus)
-http://stream02.vnet.am/NatGeoWild/mono.m3u8
+https://node2-az-baku-delta.streamy.group/stream/gv9wxr5z26z964s6nf95ab4bucyvbd7cpfaqvwetaxkmd92gieqda6ykvsvd49ij7vt76rx273s2j4fqzgkup63raw6gw4c68mkjdxm9u6ny9irubpijbbseqcy4veiriw5i6gpmqqgdgcq4dy3h97u9d6x8skn86ifuy3p6g7dn3u7p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="Türk kanalları", NR1 FASHION ONE
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
@@ -685,6 +685,7 @@ https://node1-az-baku-delta.streamy.group/stream/5pfgxirw74q3netzz4tyj64v5tzfkfx
 
 #EXTINF:-1 tvg-id="Euronews"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="Rus kanalları",EURONEWS (RU)
 https://node1-az-baku-delta.streamy.group/stream/aik4huvyr49qb7cz3vnm3eypinxk2z6m3myrf8xfd4xdg3pdem4zhbbett3fx7hqtsqsyb7ukrtr2qrvqxpf93vs4hgdgh4wa9jpmhwfp97z7va5pspv5yaiwny76v3jd7mtsd3r9b4t5acdr8ippdanfv9437gctktb4nufb7setq3t.m3u8
+
 
 
 
