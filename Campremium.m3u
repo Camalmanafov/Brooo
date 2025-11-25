@@ -21,7 +21,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="Azərbaycan kanalları", Az TV HD
-https://node2-az-baku-delta.streamy.group/stream/k8uc5rhip5qh53xxrfti2u3su7d6yx5xyw6ek5ne642xs9yt5qwefxtvru8rsyiwb996pshgs8rrrjk9srsnbtkabzqtritfkvj2xban6i4p3hherddr82g53buu2xmk6i7695sqxih4mv8c8qu3guibpap9fzkf2xfwqgkxd43k4===.m3u8
+https://node1-az-baku-delta.streamy.group/stream/5kkr25qcddq2wzixiwpeeuajvf9vmhf3wjtyr8ct5gis6nvkcjfmfaedgxvuw3yybu7m8pmp25q4st6wx53u974fn8fe2en7q4pvw3ngpidit98vbdd38nj5rn5fimiyjeyssdh6eniw23v66dc8xud29mdc28wnwq29wqivwriwe===.m3u8
 
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azərbaycan kanalları", Baku TV HD
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
@@ -685,6 +685,7 @@ https://node1-az-baku-delta.streamy.group/stream/5pfgxirw74q3netzz4tyj64v5tzfkfx
 
 #EXTINF:-1 tvg-id="Euronews"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="Rus kanalları",EURONEWS (RU)
 https://node1-az-baku-delta.streamy.group/stream/aik4huvyr49qb7cz3vnm3eypinxk2z6m3myrf8xfd4xdg3pdem4zhbbett3fx7hqtsqsyb7ukrtr2qrvqxpf93vs4hgdgh4wa9jpmhwfp97z7va5pspv5yaiwny76v3jd7mtsd3r9b4t5acdr8ippdanfv9437gctktb4nufb7setq3t.m3u8
+
 
 
 
