@@ -513,7 +513,7 @@ https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 http://149.255.152.199/tmbtv.m3u8?bandwidth=2096&e=1746611265&playlistlength=5&shift=0&sid=coder_52&token=88c6c241f842ba8c81e7b4b21b973777&user=37076&bands=796.2096
 
 #EXTINF:-1 tvg-id="idman "tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="Azərbaycan kanalları",İDMAN TV
-https://str.yodacdn.net/idman/index.m3u8
+https://github.com/Camalmanafov/Brooo/raw/main/idmansuper.m3u8
 
 #EXTINF:-1 tvg-id="твц "tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Rus kanalları",твц
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -697,6 +697,7 @@ http://185.245.0.223/live/play/VUdZeVpIWlJURXhETWxkblVqSlNjRmM1Tm1Oc05VNTFSM0V5Y
 
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QnBoE9CmTTSWCFZtbB6Hx3CdtGG6rOaWsOU6AebGNw&s=10" group-title="Rus kanalları",CİNEMA TV
 http://catchup.videoline.ru/cinema/playlist.m3u8
+
 
 
 
