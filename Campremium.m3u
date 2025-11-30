@@ -692,6 +692,9 @@ https://node2-az-baku-delta.streamy.group/stream/gv9wxr5z26z964s6nf95ab4bucyvbd7
 #EXTINF:-1 tvg-id="XEZER TV HD"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",XEZER TV HD
 https://node2-az-baku-delta.streamy.group/stream/n6ctngrn396uqsuunnhimtck6y2xj8ysgd9uxq86i8b8rbm4gag6va6m8jh2huchw4iw3abwcm7crmeh8232fxhk2s8mep73ncaqmz4bwsqy8igxbj4cxhnnf8mmeu7wami4b43s7s3zc3ecyzfmcpy95z3suzbnqqz77fb34tga.m3u8
 
+#EXTINF:-1 tvg-id="test"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",test
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/2409/index.m3u8
+
 
 
 
