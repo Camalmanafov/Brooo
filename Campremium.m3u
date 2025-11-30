@@ -486,7 +486,7 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 http://185.234.111.229:8000/play/a01m
 
 #EXTINF:-1 tvg-id="Че! "tvg-logo="https://images.seeklogo.com/logo-png/1/2/atv-logo-png_seeklogo-13363.png" group-title="Türk kanalları",ATV Türkiye
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="Че! "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1280px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Türk kanalları",NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
@@ -694,6 +694,7 @@ https://node2-az-baku-delta.streamy.group/stream/n6ctngrn396uqsuunnhimtck6y2xj8y
 
 #EXTINF:-1 tvg-id="test"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",test
 http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/2409/index.m3u8
+
 
 
 
