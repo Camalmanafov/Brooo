@@ -695,6 +695,9 @@ https://node2-az-baku-delta.streamy.group/stream/n6ctngrn396uqsuunnhimtck6y2xj8y
 #EXTINF:-1 tvg-id="test"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",test
 http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/2409/index.m3u8
 
+#EXTINF:-1 tvg-id="cinema"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QnBoE9CmTTSWCFZtbB6Hx3CdtGG6rOaWsOU6AebGNw&s=10" group-title="Rus kanalları",CİNEMA TV
+http://catchup.videoline.ru/cinema/playlist.m3u8
+
 
 
 
