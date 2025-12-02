@@ -1,3 +1,5 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=600000,RESOLUTION=1280x720
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live", GoodStream Playlist
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1920x1080
 http://fc80530169a5.goodstreem.org/playlists/uplist/d90031282e1072c435e0aa80bc3de9a2/playlist.m3u8
