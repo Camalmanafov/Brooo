@@ -692,11 +692,12 @@ https://node2-az-baku-delta.streamy.group/stream/gv9wxr5z26z964s6nf95ab4bucyvbd7
 #EXTINF:-1 tvg-id="XEZER TV HD"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",XEZER TV HD
 https://node2-az-baku-delta.streamy.group/stream/n6ctngrn396uqsuunnhimtck6y2xj8ysgd9uxq86i8b8rbm4gag6va6m8jh2huchw4iw3abwcm7crmeh8232fxhk2s8mep73ncaqmz4bwsqy8igxbj4cxhnnf8mmeu7wami4b43s7s3zc3ecyzfmcpy95z3suzbnqqz77fb34tga.m3u8
 
-#EXTINF:-1 tvg-id="test"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",Tabiii
-http://185.245.0.223/live/play/VUdZeVpIWlJURXhETWxkblVqSlNjRmM1Tm1Oc05VNTFSM0V5YkVkTldHZHRSamh2SzJSd01IcGhjejA9/1161543
+#EXTINF:-1 tvg-id="test"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",test rosiya
+https://raw.githubusercontent.com/Camalmanafov/Brooo/refs/heads/main/rossiya1.m3u8
 
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QnBoE9CmTTSWCFZtbB6Hx3CdtGG6rOaWsOU6AebGNw&s=10" group-title="Rus kanalları",CİNEMA TV
 http://catchup.videoline.ru/cinema/playlist.m3u8
+
 
 
 
