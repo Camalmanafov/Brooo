@@ -701,6 +701,9 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-481975.png" group-title="Türk kanalları",Tabii spor 2
 http://103.176.90.30/live/play/YnpsdlkwcFRRMVJ2VEZORWNXWmliM3BUUkdWa1pXRjRTbTVUTlZjeGFYVlRVWGx0UlRVclNYcHJhejA9/1625460.m3u8
 
+#EXTINF:-1 tvg-id="cinema"tvg-logo="https://smotret-tv.live/images/black-kanal.png" group-title="Rus kanalları",.BLACK
+http://195.191.208.11:8087/udp/238.9.64.235:1234
+
 
 
 
