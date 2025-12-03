@@ -704,6 +704,9 @@ http://103.176.90.30/live/play/YnpsdlkwcFRRMVJ2VEZORWNXWmliM3BUUkdWa1pXRjRTbTVUT
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://smotret-tv.live/images/black-kanal.png" group-title="Rus kanalları",.BLACK
 http://195.191.208.11:8087/udp/238.9.64.235:1234
 
+#EXTINF:-1 tvg-id="2x2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2x2_TV_Logo.svg" group-title="Rus kanalları",2x2
+http://195.191.208.11:8087/udp/238.9.64.100:1234
+
 
 
 
