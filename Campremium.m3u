@@ -707,6 +707,9 @@ http://195.191.208.11:8087/udp/238.9.64.235:1234
 #EXTINF:-1 tvg-id="2x2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2x2_TV_Logo.svg" group-title="Rus kanalları",2x2
 http://195.191.208.11:8087/udp/238.9.64.100:1234
 
+#EXTINF:-1 tvg-id="2x2"tvg-logo="https://ntvplus.tv/files/image/88/52/29/06h.png" group-title="Rus kanalları",03 Матч!
+http://178.212.71.253:8000/play/3/index.m3u8
+
 
 
 
