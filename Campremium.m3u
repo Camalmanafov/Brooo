@@ -725,8 +725,9 @@ http://sunxtv.com:80/live/SPLxzRSeUY/GSwFKzfDwW/342386.ts
 #EXTINF:-1 tvg-id="Tivibunspor"tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-481975.png" group-title="Türk kanalları PRO",Tivibu spor
 http://sunxtv.com:80/live/SPLxzRSeUY/GSwFKzfDwW/342396.ts
 
-#EXTINF:-1 tvg-id="Tivibunspor"tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Rus kanalları",Россия 1 (HD)
+#EXTINF:-1 tvg-id="Tivibunspor"tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Rus kanalları",Rasiya 1(HD)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 
 
 
