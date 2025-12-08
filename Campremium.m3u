@@ -483,7 +483,7 @@ https://vod.tuva.ru/friday/index.m3u8
 http://178.212.71.253:8002/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="Че! " tvg-logo="https://iaatv.tmgrup.com.tr/65837c/820/547/0/0/600/400?u=https://iatv.tmgrup.com.tr/2022/05/13/unutulmaz-diziler-a2de-a2-full-hd-izle-a2-canli-yayin-kesintisiz-izle-a2-yayin-akisi-ile-en-sevdigin-dizilere-1652464889414.jpg" group-title="Türk kanalları",A2
-http://185.234.111.229:8000/play/a01m
+https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=8TU3FULIiPJP0TmH_3_IWA&e=1765270803
 
 #EXTINF:-1 tvg-id="Че! "tvg-logo="https://images.seeklogo.com/logo-png/1/2/atv-logo-png_seeklogo-13363.png" group-title="Türk kanalları",ATV Türkiye
 http://89.187.191.41/ATV-HD-TR/video.m3u8
@@ -730,6 +730,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Tivibunspor"tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Rus kanalları",Testsen
 https://vavoo.to/play/2546260324/index.m3u8
+
 
 
 
