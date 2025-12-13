@@ -21,7 +21,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="Azərbaycan kanalları", Az TV HD
-https://node1-az-baku-delta.streamy.group/stream/5kkr25qcddq2wzixiwpeeuajvf9vmhf3wjtyr8ct5gis6nvkcjfmfaedgxvuw3yybu7m8pmp25q4st6wx53u974fn8fe2en7q4pvw3ngpidit98vbdd38nj5rn5fimiyjeyssdh6eniw23v66dc8xud29mdc28wnwq29wqivwriwe===.m3u8
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MjI3Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6Ijk2N2E2NzRkIiwicCI6Ijk2N2E2NzRkYmE4YTc4NjYiLCJjIjoiMjE1IiwidCI6IjNiMWI2Yjk2ZjFiMWUyZGRlMjQxZjM0YzM3OTc3YzJiIiwiZCI6IjE0NzI3NiIsInIiOiIxNTAzMjMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgyMjcvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azərbaycan kanalları", Baku TV HD
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
@@ -745,6 +745,7 @@ http://31.59.186.86/live/play/TTR1d1I0SnNiZzc1Q0FPSkxwQXdscjBQbnZBWXlUaFRjZlFQTT
 
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1024px-TRT_Spor_logo_%282022%29.svg.png" group-title="Türk kanalları",Afro
 https://vavoo.to/play/2723228768/index.m3u8
+
 
 
 
