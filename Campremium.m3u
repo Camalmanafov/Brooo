@@ -68,7 +68,7 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6
 #EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Türk kanalları", Power Türk Akustik
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Türk kanalları", Star TV HD
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Türk Əsas kanallar", Star TV HD
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192066
 
 #EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Xarici kanallar", Start World (HD)
@@ -745,6 +745,7 @@ http://31.59.186.86/live/play/TTR1d1I0SnNiZzc1Q0FPSkxwQXdscjBQbnZBWXlUaFRjZlFQTT
 
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1024px-TRT_Spor_logo_%282022%29.svg.png" group-title="Türk kanalları",Afro
 https://vavoo.to/play/2723228768/index.m3u8
+
 
 
 
