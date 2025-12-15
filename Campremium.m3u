@@ -686,12 +686,6 @@ https://node1-az-baku-delta.streamy.group/stream/5pfgxirw74q3netzz4tyj64v5tzfkfx
 #EXTINF:-1 tvg-id="Euronews"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="Rus kanalları",EURONEWS (RU)
 https://node1-az-baku-delta.streamy.group/stream/aik4huvyr49qb7cz3vnm3eypinxk2z6m3myrf8xfd4xdg3pdem4zhbbett3fx7hqtsqsyb7ukrtr2qrvqxpf93vs4hgdgh4wa9jpmhwfp97z7va5pspv5yaiwny76v3jd7mtsd3r9b4t5acdr8ippdanfv9437gctktb4nufb7setq3t.m3u8
 
-#EXTINF:-1 tvg-id="Nat geo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="PROVAYDER",NAT GEO WİLD (ru)
-https://node2-az-baku-delta.streamy.group/stream/gv9wxr5z26z964s6nf95ab4bucyvbd7cpfaqvwetaxkmd92gieqda6ykvsvd49ij7vt76rx273s2j4fqzgkup63raw6gw4c68mkjdxm9u6ny9irubpijbbseqcy4veiriw5i6gpmqqgdgcq4dy3h97u9d6x8skn86ifuy3p6g7dn3u7p.m3u8
-
-#EXTINF:-1 tvg-id="XEZER TV HD"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",XEZER TV HD
-https://node2-az-baku-delta.streamy.group/stream/n6ctngrn396uqsuunnhimtck6y2xj8ysgd9uxq86i8b8rbm4gag6va6m8jh2huchw4iw3abwcm7crmeh8232fxhk2s8mep73ncaqmz4bwsqy8igxbj4cxhnnf8mmeu7wami4b43s7s3zc3ecyzfmcpy95z3suzbnqqz77fb34tga.m3u8
-
 #EXTINF:-1 tvg-id="test"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",test rosiya
 https://raw.githubusercontent.com/Camalmanafov/Brooo/refs/heads/main/rossiya1.m3u8
 
@@ -745,6 +739,7 @@ http://31.59.186.86/live/play/TTR1d1I0SnNiZzc1Q0FPSkxwQXdscjBQbnZBWXlUaFRjZlFQTT
 
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="Türk Əsas kanallar",Kanal D HD
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192068
+
 
 
 
