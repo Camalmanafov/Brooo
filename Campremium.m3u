@@ -686,9 +686,6 @@ https://node1-az-baku-delta.streamy.group/stream/5pfgxirw74q3netzz4tyj64v5tzfkfx
 #EXTINF:-1 tvg-id="Euronews"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="Rus kanalları",EURONEWS (RU)
 https://node1-az-baku-delta.streamy.group/stream/aik4huvyr49qb7cz3vnm3eypinxk2z6m3myrf8xfd4xdg3pdem4zhbbett3fx7hqtsqsyb7ukrtr2qrvqxpf93vs4hgdgh4wa9jpmhwfp97z7va5pspv5yaiwny76v3jd7mtsd3r9b4t5acdr8ippdanfv9437gctktb4nufb7setq3t.m3u8
 
-#EXTINF:-1 tvg-id="test"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="PROVAYDER",test rosiya
-https://raw.githubusercontent.com/Camalmanafov/Brooo/refs/heads/main/rossiya1.m3u8
-
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QnBoE9CmTTSWCFZtbB6Hx3CdtGG6rOaWsOU6AebGNw&s=10" group-title="Rus kanalları",CİNEMA TV
 http://catchup.videoline.ru/cinema/playlist.m3u8
 
@@ -739,6 +736,7 @@ http://31.59.186.86/live/play/TTR1d1I0SnNiZzc1Q0FPSkxwQXdscjBQbnZBWXlUaFRjZlFQTT
 
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="Türk Əsas kanallar",Kanal D HD
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192068
+
 
 
 
