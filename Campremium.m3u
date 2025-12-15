@@ -218,8 +218,8 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Show Turk TR
 https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1765571023&st=MJxCPl6zHNJCJd-oeSzEFw&tv=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Show TV HD
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/show.png" group-title="Türk Əsas kanallar", Show TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6273
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
@@ -745,6 +745,7 @@ http://31.59.186.86/live/play/TTR1d1I0SnNiZzc1Q0FPSkxwQXdscjBQbnZBWXlUaFRjZlFQTT
 
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="Türk Əsas kanallar",Kanal D HD
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192068
+
 
 
 
