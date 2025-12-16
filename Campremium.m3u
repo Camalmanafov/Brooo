@@ -737,6 +737,8 @@ http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=260093
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Tabii platforması",Tabii spor
 http://front-main.eagle-4k.me:80/226260263679518/u5e5768bu8/1195377
 
+#EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Tabii platforması",Tabii spor 1
+http://front-main.eagle-4k.me:80/226260263679518/u5e5768bu8/1121579
 
 
 
