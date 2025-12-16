@@ -444,7 +444,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="Rus kanalları", BollywooD (HD ready)
-http://178.212.71.253:8002/play/a00t/index.m3u8
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/782138.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", BLOOMBERG HT TR
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
@@ -742,6 +742,7 @@ http://front-main.eagle-4k.me:80/226260263679518/u5e5768bu8/1121579
 
 #EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Tabii platforması",Tabii spor 2
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=1161541&extension=ts&play_token=9WdQNrUFta
+
 
 
 
