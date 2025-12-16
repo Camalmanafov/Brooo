@@ -525,7 +525,7 @@ http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MzEyIiwic3RwIjoiMS
 https://streaming101.goodstream.cyou/live/296-req_offset_28000000-req_window_0-2k_v5.m3u8
 
 #EXTINF:-1 tvg-id="тв 3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg" group-title="Rus kanalları", тв 3
-https://nlv4.sysnet.top/video/rjl-o7S8RsIN9pQf4mD1NQ/18/playlist.m3u8
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/360634.m3u8
 
 #EXTINF:-1 tvg-id="euro star"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Türk kanalları", Euro star
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
@@ -736,6 +736,7 @@ http://31.59.186.86/live/play/TTR1d1I0SnNiZzc1Q0FPSkxwQXdscjBQbnZBWXlUaFRjZlFQTT
 
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="Türk Əsas kanallar",Kanal D HD
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192068
+
 
 
 
