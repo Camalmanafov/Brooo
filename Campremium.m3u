@@ -671,8 +671,8 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Türk kanalları",BEİN ALTERNATİV
 https://dga1op10s1u3lep.7d9c05a7181039.click/live/selcukobs1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRT SPOR YİLDİZ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg" group-title="Türk kanalları",TRT SPOR YILDIZ
-http://b53f0300.kazaktelekom.com/iptv/P6AFYASUFXQF7MFC4S3K6QE5/2145/index.m3u8
+#EXTINF:-1 tvg-id="TRT SPOR YİLDİZ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg" group-title="Türk idman",TRT SPOR YILDIZ
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=260094&extension=ts&play_token=q9MhTfhhLr
 
 #EXTINF:-1 tvg-id="TRT SPOR YİLDİZ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg" group-title="Türk kanalları",TRT 3 SPOR
 https://node1-az-baku-delta.streamy.group/stream/5pfgxirw74q3netzz4tyj64v5tzfkfxn3f9xgx3n8dpuezqutzwcfg27rkw8rdmju24pm6ue3u8p3xwn7qxx4zdfqbbkc2d9e6wc6u2cggj8t7yuhh6ywpafyq66vrzwte59up87r6xxt7wc5ez48ibvv7jnkbv7jgz6vici7e======.m3u8
@@ -733,6 +733,7 @@ http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192068
 
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936160.png" group-title="Türk idman",TRT SPOR
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=260093&extension=ts&play_token=qlcG7nGHH4
+
 
 
 
