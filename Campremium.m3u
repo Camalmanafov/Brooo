@@ -518,8 +518,8 @@ https://github.com/Camalmanafov/Brooo/raw/main/idmansuper.m3u8
 #EXTINF:-1 tvg-id="твц "tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Rus kanalları",твц
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ren "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",Ren tv 
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MzEyIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTU0LzgzMTIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzYiLCJhZnAiOiI4MzEyIiwiYXRzIjoiMzM2IiwibCI6Ijk2N2E2NzRkIiwicCI6Ijk2N2E2NzRkYmE4YTc4NjYiLCJjIjoiMjUwIiwidCI6IjNiMWI2Yjk2ZjFiMWUyZGRlMjQxZjM0YzM3OTc3YzJiIiwiZCI6IjE0NzI3NiIsInIiOiIxNTAzMjMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgzMTIvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 tvg-id="ren "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",РЕН ТВ HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/360630.m3u8
 
 #EXTINF:-1 tvg-id="стс "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg/2560px-8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg.png" group-title="Rus kanalları",СТС
 https://streaming101.goodstream.cyou/live/296-req_offset_28000000-req_window_0-2k_v5.m3u8
@@ -530,17 +530,11 @@ http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/360634.m3u8
 #EXTINF:-1 tvg-id="euro star"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Türk kanalları", Euro star
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
 
-#EXTINF:-1 tvg-id="рен"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Rus kanalları", Ren tv int
-https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
-
 #EXTINF:-1 tvg-id="ntv serial"tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Rus kanalları", NTV serial (rus)
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ю"tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Rus kanalları", ю
 http://31.148.48.15/U/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 tvg-id="food"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Rus kanalları", FOOD NETWORK
-http://ott-cdn.ucom.am/s18/04.m3u8
 
 #EXTINF:-1 tvg-id="history"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Rus kanalları", History HD
 https://s.tivix.co/HZSPiZmqxSQ3oda3bl72Tg/114/1757697829/index.m3u8
@@ -736,6 +730,7 @@ http://31.59.186.86/live/play/TTR1d1I0SnNiZzc1Q0FPSkxwQXdscjBQbnZBWXlUaFRjZlFQTT
 
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="Türk Əsas kanallar",Kanal D HD
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192068
+
 
 
 
