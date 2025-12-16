@@ -420,7 +420,7 @@ https://s.domatv.net/XcqnCzv7yR5TRD1DbGwf4Q/591/1763590318/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", ТНТ HD
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159835.m3u8
 
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Rus kanalları", ТНТ Music (HD)
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
@@ -730,6 +730,7 @@ http://31.59.186.86/live/play/TTR1d1I0SnNiZzc1Q0FPSkxwQXdscjBQbnZBWXlUaFRjZlFQTT
 
 #EXTINF:-1 tvg-id="trt spor"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="Türk Əsas kanallar",Kanal D HD
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192068
+
 
 
 
