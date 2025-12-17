@@ -21,7 +21,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="Azərbaycan kanalları", Az TV HD
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MjI3Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6Ijk2N2E2NzRkIiwicCI6Ijk2N2E2NzRkYmE4YTc4NjYiLCJjIjoiMjE1IiwidCI6IjNiMWI2Yjk2ZjFiMWUyZGRlMjQxZjM0YzM3OTc3YzJiIiwiZCI6IjE0NzI3NiIsInIiOiIxNTAzMjMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgyMjcvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azərbaycan kanalları", Baku TV HD
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
@@ -742,6 +742,7 @@ http://front-main.eagle-4k.me:80/226260263679518/u5e5768bu8/1121579
 
 #EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Tabii platforması",Tabii spor 2
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=1161541&extension=ts&play_token=9WdQNrUFta
+
 
 
 
