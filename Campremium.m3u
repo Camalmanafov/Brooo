@@ -513,7 +513,7 @@ https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 http://149.255.152.199/tmbtv.m3u8?bandwidth=2096&e=1746611265&playlistlength=5&shift=0&sid=coder_52&token=88c6c241f842ba8c81e7b4b21b973777&user=37076&bands=796.2096
 
 #EXTINF:-1 tvg-id="idman "tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="Azərbaycan kanalları",İDMAN TV
-https://github.com/Camalmanafov/Brooo/raw/main/idmansuper.m3u8
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="твц "tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Rus kanalları",твц
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -742,6 +742,7 @@ http://front-main.eagle-4k.me:80/226260263679518/u5e5768bu8/1121579
 
 #EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Tabii platforması",Tabii spor 2
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=1161541&extension=ts&play_token=9WdQNrUFta
+
 
 
 
