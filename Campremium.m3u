@@ -171,7 +171,7 @@ http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d5
 http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/bb/Real_TV_loqosu.png" group-title="Azərbaycan kanalları", Real TV
-http://135.181.115.81:8000/play/a01t/index.m3u8?token=livetv
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Space_TV_loqosu_%282021-2023%29.png/320px-Space_TV_loqosu_%282021-2023%29.png" group-title="Azərbaycan kanalları", SPACE TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
@@ -739,6 +739,7 @@ http://front-main.eagle-4k.me:80/226260263679518/u5e5768bu8/1121579
 
 #EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Tabii platforması",Tabii spor 2
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=1161541&extension=ts&play_token=9WdQNrUFta
+
 
 
 
