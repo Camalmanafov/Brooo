@@ -743,6 +743,9 @@ http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=116154
 #EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Azərbaycan kanalları",HABER GLOBAL HD
 https://str.yodacdn.net/haberglobal/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="tabii"tvg-logo="https://viphd.az/uploads/others/VIP%20HD%20SUNUM%202025-9%20(2)-i678cb8fad8426.png" group-title="Azərbaycan kanalları",VİP TV HD
+https://str.yodacdn.net/vip/tracks-v1a1/mono.ts.m3u8
+
 
 
 
