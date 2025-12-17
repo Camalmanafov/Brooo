@@ -152,7 +152,7 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ARB24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" group-title="Azərbaycan kanalları", ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/474px-Azad_Azerbaycan_TV_logosu.png" group-title="Azərbaycan kanalları", Azad Azerbaycan TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/474px-Azad_Azerbaycan_TV_logosu.png" group-title="Azərbaycan kanalları", Atv Azərbaycan HD
 https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", AZSTAR TV
@@ -742,6 +742,7 @@ http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=116154
 
 #EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Azərbaycan kanalları",HABER GLOBAL HD
 https://str.yodacdn.net/haberglobal/tracks-v1a1/mono.ts.m3u8
+
 
 
 
