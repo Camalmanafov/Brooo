@@ -432,7 +432,7 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Türk kanalları", A Haber HD
-https://canlitvulusal.xyz/live/ahaber/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1766190050/ei/gpdFabTuNoLQp-oPiKHPsAo/ip/86.107.43.88/id/nmY9i63t6qo.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr1---sn-4g5edn6k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AYUSA3A_73mODun7Lm8lB_JNUbWgFdYLgYP30SMrNtiepvvpiP6E-9wzZRk16bvVu7gKeIOQNnOISP3o/spc/wH4Qq7W6cU16JjeftwENxPxUkpnnVzaweg9Ry8kF_--1GJHh4Ughz7bL7YPtCi27Lrg/vprv/1/ns/AJC1lVpir3jS-cYOJArackER/playlist_type/DVR/cps/261/met/1766169016,/mh/E3/mm/44/mn/sn-4g5edn6k/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968/n/5s_E6seebLFJhBwuf2/mt/1766168670/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRQIhAOj9yarCLg-DNLIJWV7B6hhnWzE9R07W_g3m0tLrNW1xAiBHphV6Nk70PWWNoIVQdvcmt-5wo2enrEVjqFRpvuLXDQ%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgBKNTJwNEwBpIkLbIx4xCGr0-p9OwcgwY30tIWxJCozsCIQCPjZUPgDO88OsH5YFtafnZyyyR_6IYYw8dD_QFoY1wlA%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Türk kanalları", A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
@@ -745,6 +745,7 @@ https://str.yodacdn.net/haberglobal/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="tabii"tvg-logo="https://viphd.az/uploads/others/VIP%20HD%20SUNUM%202025-9%20(2)-i678cb8fad8426.png" group-title="Azərbaycan kanalları",VİP TV HD
 https://str.yodacdn.net/vip/tracks-v1a1/mono.ts.m3u8
+
 
 
 
