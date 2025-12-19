@@ -746,6 +746,8 @@ https://str.yodacdn.net/haberglobal/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tabii"tvg-logo="https://viphd.az/uploads/others/VIP%20HD%20SUNUM%202025-9%20(2)-i678cb8fad8426.png" group-title="Azərbaycan kanalları",VİP TV HD
 https://str.yodacdn.net/vip/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="show plus"tvg-logo="https://yoda.az/logos/showplus.png" group-title="Azərbaycan kanalları",SHOW PLUS TV
+https://rtmp.showplus.tv/hls/myshow.m3u8
 
 
 
