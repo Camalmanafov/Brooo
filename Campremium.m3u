@@ -51,7 +51,7 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fx_us.png" group-title="Rus kanalları", Fx
-http://sc.id-tv.kz/FOX_HD_34_35.m3u8
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159765.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Xarici kanallar", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -760,6 +760,7 @@ http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6286
 
 #EXTINF:-1 tvg-id="nat geo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="Türk Kanalları",DMAX HD
 https://www.canli.co/hls/dmax/tracks-v1a1/mono.ts.m3u8
+
 
 
 
