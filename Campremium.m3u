@@ -479,8 +479,8 @@ https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-id="Че! " tvg-logo="https://iptvx.one/picons/che.png" group-title="Rus kanalları",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-id="Че! " tvg-logo="https://iaatv.tmgrup.com.tr/65837c/820/547/0/0/600/400?u=https://iatv.tmgrup.com.tr/2022/05/13/unutulmaz-diziler-a2de-a2-full-hd-izle-a2-canli-yayin-kesintisiz-izle-a2-yayin-akisi-ile-en-sevdigin-dizilere-1652464889414.jpg" group-title="Türk kanalları",A2
-https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=8TU3FULIiPJP0TmH_3_IWA&e=1765270803
+#EXTINF:-1 tvg-id="A2 " tvg-logo="https://iaatv.tmgrup.com.tr/65837c/820/547/0/0/600/400?u=https://iatv.tmgrup.com.tr/2022/05/13/unutulmaz-diziler-a2de-a2-full-hd-izle-a2-canli-yayin-kesintisiz-izle-a2-yayin-akisi-ile-en-sevdigin-dizilere-1652464889414.jpg" group-title="Türk kanalları",A2
+https://www.canli.co/hls/a2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Че! "tvg-logo="https://images.seeklogo.com/logo-png/1/2/atv-logo-png_seeklogo-13363.png" group-title="Türk kanalları",ATV Türkiye
 http://89.187.191.41/ATV-HD-TR/video.m3u8
@@ -766,6 +766,7 @@ http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/195780.m3u8
 
 #EXTINF:-1 tvg-id="setanta sports"tvg-logo="https://lo1.in/ukr/set.png" group-title="UKRAYNA KANALLARI",ukrayna| SETANTA SPORTS 2
 http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/195781.m3u8
+
 
 
 
