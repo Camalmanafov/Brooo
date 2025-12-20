@@ -251,8 +251,8 @@ http://178.219.128.68:64889/SKYNEWS
 #EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Rus kanalları", Известия 
 http://65.21.85.175:8000/play/a01h/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="Rus kanalları", Viju TV1000 (HD)
-http://46.8.46.14/tv1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://lo1.in/rus/tv1ac.png" group-title="Rus kanalları", TV 1000 ACTION HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17280.m3u8
 
 #EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Rus kanalları", Trash (HD)
 http://185.23.80.28:8080/TRASH/index.m3u8?token=test
@@ -760,6 +760,7 @@ http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6286
 
 #EXTINF:-1 tvg-id="nat geo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="Türk Kanalları",DMAX HD
 https://www.canli.co/hls/dmax/tracks-v1a1/mono.ts.m3u8
+
 
 
 
