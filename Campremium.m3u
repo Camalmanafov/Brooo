@@ -758,8 +758,11 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="nat geo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="Türk Belgesel",National Geographic HD
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6286
 
-#EXTINF:-1 tvg-id="nat geo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="Türk Kanalları",DMAX HD
+#EXTINF:-1 tvg-id="nat geo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="Türk Kanallari",DMAX HD
 https://www.canli.co/hls/dmax/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="setanta sports"tvg-logo="https://lo1.in/ukr/se.png" group-title="Rus Kanallari",ukrayna| SETANTA SPORTS 1
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/195780.m3u8
 
 
 
