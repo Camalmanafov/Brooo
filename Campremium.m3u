@@ -923,6 +923,55 @@ http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6204
 #EXTINF:-1 tvg-id="|TR| beIN Movies Action 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action.png" group-title="BEin kanalları Film", |TR| beIN Movies Action 1 FHD
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6198
 
+#EXTM3U
+#EXTINF:-1 tvg-id="|TR| beIN Sports 1 (TTNET ÖZEL)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Bein idman kanalları", |TR| beIN Sports 1 (TTNET ÖZEL)
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/334642
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 1 4K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Bein idman kanalları", |TR| beIN Sports 1 4K [Feed]
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/35650
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 1 8K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Bein idman kanalları", |TR| beIN Sports 1 8K [Feed]
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/191152
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 1 720p" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Bein idman kanalları", |TR| beIN Sports 1 720p
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/351541
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Bein idman kanalları", |TR| beIN Sports 2 HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/35730
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 2 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Bein idman kanalları", |TR| beIN Sports 2 SD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/196216
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 2 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Bein idman kanalları", |TR| beIN Sports 2 UHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/195811
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Bein idman kanalları", |TR| beIN Sports 3 HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6097
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 3 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Bein idman kanalları", |TR| beIN Sports 3 UHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/195812
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 3 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Bein idman kanalları", |TR| beIN Sports 3 SD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/196217
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 4 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Bein idman kanalları", |TR| beIN Sports 4 SD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/196218
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Bein idman kanalları", |TR| beIN Sports 4 HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6098
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 4 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Bein idman kanalları", |TR| beIN Sports 4 UHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/195813
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png" group-title="Bein idman kanalları", |TR| beIN Sports 5 HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/125936
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_2.png" group-title="Bein idman kanalları", |TR| beIN Sports Max 2
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6100
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="Bein idman kanalları", |TR| beIN Sports Max 1
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6099
+
 
 
 
