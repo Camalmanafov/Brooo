@@ -972,6 +972,42 @@ http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6100
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="Bein idman kanalları", |TR| beIN Sports Max 1
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6099
 
+#EXTM3U
+#EXTINF:-1 tvg-id="eurosport1.ru" tvg-logo="https://lo1.in/rus/eursp1.png" group-title="Rus idman kanalları", RU| EUROSPORT 1 FHD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17252.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2.ru" tvg-logo="https://lo1.in/rus/eursp2.png" group-title="Rus idman kanalları", RU| EUROSPORT 2 FHD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17250.m3u8
+
+#EXTINF:-1 tvg-id="matchfutbol1.ru" tvg-logo="https://lo1.in/rus/matfb2.png" group-title="Rus idman kanalları", RU| MATCH FUTBOL 1 HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159790.m3u8
+
+#EXTINF:-1 tvg-id="matchtv.ru" tvg-logo="https://lo1.in/rus/mat.png" group-title="Rus idman kanalları", RU| MATCH FHD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159784.m3u8
+
+#EXTINF:-1 tvg-id="matchfutbol2.ru" tvg-logo="https://lo1.in/rus/matfb.png" group-title="Rus idman kanalları", RU| MATCH FUTBOL 2 HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159782.m3u8
+
+#EXTINF:-1 tvg-id="matchfutbol3.ru" tvg-logo="https://lo1.in/rus/mat.png" group-title="Rus idman kanalları", RU| MATCH FUTBOL 3 HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159783.m3u8
+
+#EXTINF:-1 tvg-id="RU| MATCH GAME HD" tvg-logo="https://lo1.in/rus/mat.png" group-title="Rus idman kanalları", RU| MATCH GAME HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/62554.m3u8
+
+#EXTINF:-1 tvg-id="matchigra.ru" tvg-logo="https://lo1.in/rus/matg.png" group-title="Rus idman kanalları", RU| MATCH IGRA HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159785.m3u8
+
+#EXTINF:-1 tvg-id="matchnassport.ru" tvg-logo="https://lo1.in/rus/matchsp.png" group-title="Rus idman kanalları", RU| MATCH NASH SPORT HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159789.m3u8
+
+#EXTINF:-1 tvg-id="mtachpremier" tvg-logo="https://lo1.in/rus/matpr.png" group-title="Rus idman kanalları", RU| MATCH PREMIER HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159787.m3u8
+
+#EXTINF:-1 tvg-id="matcharena.ru" tvg-logo="https://lo1.in/rus/matar.png" group-title="Rus idman kanalları", RU| MATCH! ARENA FHD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17286.m3u8
+
+#EXTINF:-1 tvg-id="viasatsport.ru" tvg-logo="https://lo1.in/rus/viasp.png" group-title="Rus idman kanalları", RU| VIASAT SPORT FHD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17255.m3u8
 
 
 
