@@ -767,6 +767,22 @@ http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/195780.m3u8
 #EXTINF:-1 tvg-id="setanta sports"tvg-logo="https://lo1.in/ukr/set.png" group-title="UKRAYNA KANALLARI",ukrayna| SETANTA SPORTS 2
 http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/195781.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_2.png" group-title="Tivibu Platforması", |TR| Tivibu Spor 1 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6102
+
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_3.png" group-title="Tivibu Platforması", |TR| Tivibu Spor 2 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6103
+
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor 4 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="Tivibu Platforması", |TR| Tivibu Spor 4 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/115600
+
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor 3 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_4.png" group-title="Tivibu Platforması", |TR| Tivibu Spor 3 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/113254
+
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="Tivibu Platforması", |TR| Tivibu Spor FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6101
+
 
 
 
