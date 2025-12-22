@@ -1009,6 +1009,9 @@ http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17286.m3u8
 #EXTINF:-1 tvg-id="viasatsport.ru" tvg-logo="https://lo1.in/rus/viasp.png" group-title="Rus idman kanalları", RU| VIASAT SPORT FHD
 http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17255.m3u8
 
+#EXTINF:-1 tvg-id="biznestv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScepgUwNbT4TA6kyKZggQjQ5rpr3hOs78p2juP3OX-pQ&s=10" group-title="Azərbaycan kanalları", BİZNES TV
+https://str.yodacdn.net/biznestv/tracks-v1a1/mono.m3u8
+
 
 
 
