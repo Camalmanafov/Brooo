@@ -972,45 +972,90 @@ http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6100
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="Bein idman kanalları", |TR| beIN Sports Max 1
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6099
 
-#EXTM3U
-#EXTINF:-1 tvg-id="eurosport1.ru" tvg-logo="https://lo1.in/rus/eursp1.png" group-title="Rus idman kanalları", RU| EUROSPORT 1 FHD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17252.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2.ru" tvg-logo="https://lo1.in/rus/eursp2.png" group-title="Rus idman kanalları", RU| EUROSPORT 2 FHD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17250.m3u8
-
-#EXTINF:-1 tvg-id="matchfutbol1.ru" tvg-logo="https://lo1.in/rus/matfb2.png" group-title="Rus idman kanalları", RU| MATCH FUTBOL 1 HD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159790.m3u8
-
-#EXTINF:-1 tvg-id="matchtv.ru" tvg-logo="https://lo1.in/rus/mat.png" group-title="Rus idman kanalları", RU| MATCH FHD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159784.m3u8
-
-#EXTINF:-1 tvg-id="matchfutbol2.ru" tvg-logo="https://lo1.in/rus/matfb.png" group-title="Rus idman kanalları", RU| MATCH FUTBOL 2 HD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159782.m3u8
-
-#EXTINF:-1 tvg-id="matchfutbol3.ru" tvg-logo="https://lo1.in/rus/mat.png" group-title="Rus idman kanalları", RU| MATCH FUTBOL 3 HD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159783.m3u8
-
-#EXTINF:-1 tvg-id="RU| MATCH GAME HD" tvg-logo="https://lo1.in/rus/mat.png" group-title="Rus idman kanalları", RU| MATCH GAME HD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/62554.m3u8
-
-#EXTINF:-1 tvg-id="matchigra.ru" tvg-logo="https://lo1.in/rus/matg.png" group-title="Rus idman kanalları", RU| MATCH IGRA HD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159785.m3u8
-
-#EXTINF:-1 tvg-id="matchnassport.ru" tvg-logo="https://lo1.in/rus/matchsp.png" group-title="Rus idman kanalları", RU| MATCH NASH SPORT HD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159789.m3u8
-
-#EXTINF:-1 tvg-id="mtachpremier" tvg-logo="https://lo1.in/rus/matpr.png" group-title="Rus idman kanalları", RU| MATCH PREMIER HD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159787.m3u8
-
-#EXTINF:-1 tvg-id="matcharena.ru" tvg-logo="https://lo1.in/rus/matar.png" group-title="Rus idman kanalları", RU| MATCH! ARENA FHD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17286.m3u8
-
-#EXTINF:-1 tvg-id="viasatsport.ru" tvg-logo="https://lo1.in/rus/viasp.png" group-title="Rus idman kanalları", RU| VIASAT SPORT FHD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17255.m3u8
-
 #EXTINF:-1 tvg-id="biznestv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScepgUwNbT4TA6kyKZggQjQ5rpr3hOs78p2juP3OX-pQ&s=10" group-title="Azərbaycan kanalları", BİZNES TV
 https://str.yodacdn.net/biznestv/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/babytv.png" group-title="Türk uşaq kanalları", TR - BABY TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259953&extension=ts&play_token=wkiS35vyPf
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/boomeranghd.png" group-title="Türk uşaq kanalları", TR - BOOMERANG UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259955&extension=ts&play_token=fxhmi3jijF
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/babytv.png" group-title="Türk uşaq kanalları", TR - BABY TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259954&extension=ts&play_token=3kmobrZbND
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/cartoonnetwork.png" group-title="Türk uşaq kanalları", TR - CARTOON NETWORK
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259956&extension=ts&play_token=PbsV48gMgD
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/cizgi.gif" group-title="Türk uşaq kanalları", TR - CAN CİZGİ TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259976&extension=ts&play_token=OBf8J5mVIy
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/cbeebies.png" group-title="Türk uşaq kanalları", TR - CBEEBIES
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259948&extension=ts&play_token=ZAHz9xakfT
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/cartoonnetworkhd.png" group-title="Türk uşaq kanalları", TR - CARTOON NETWORK UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259957&extension=ts&play_token=U42gn5Ee6k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/disneychannel.png" group-title="Türk uşaq kanalları", TR - DISNEY CHANNEL
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259959&extension=ts&play_token=Trh5TB54S2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/smartcocuk.jpg" group-title="Türk uşaq kanalları", TR - COCUK SMART UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259949&extension=ts&play_token=29sGZbLeJY
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/disneyjnrhd.png" group-title="Türk uşaq kanalları", TR - DISNEY JR UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259960&extension=ts&play_token=tpiUzrewVk
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/disneychannelhd.png" group-title="Türk uşaq kanalları", TR - DISNEY CHANNEL UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259958&extension=ts&play_token=Ss6hZpMU1y
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/kukuli.png" group-title="Türk uşaq kanalları", TR - KUKULI TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259950&extension=ts&play_token=hdvjFghCAO
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/disneyjunior.png" group-title="Türk uşaq kanalları", TR - DISNEY JUNIOR
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259961&extension=ts&play_token=z1zNkv3tyB
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikacocuk.jpg" group-title="Türk uşaq kanalları", TR - MİNİKA ÇOCUK UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259968&extension=ts&play_token=7SAnIprcFK
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikago.jpg" group-title="Türk uşaq kanalları", TR - MİNİKA GO UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259970&extension=ts&play_token=CkyrWEDPVP
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikago.jpg" group-title="Türk uşaq kanalları", TR - MINIKA GO TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259971&extension=ts&play_token=112PMfBH9E
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikacocuk.jpg" group-title="Türk uşaq kanalları", TR - MINIKA COCUK
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259969&extension=ts&play_token=Cc6zPP4GiW
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/nickjr.png" group-title="Türk uşaq kanalları", TR - NICK JR
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259951&extension=ts&play_token=S1b1cbuuyv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/nickelodeon.png" group-title="Türk uşaq kanalları", TR - NİCKELODEON
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259967&extension=ts&play_token=ndqXx4slWg
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/nickelodeonturkey.png" group-title="Türk uşaq kanalları", TR - NICKELODEON TURKIYE
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259966&extension=ts&play_token=oZWZXxpNwe
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/nickjr.png" group-title="Türk uşaq kanalları", TR - NICK JR
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259965&extension=ts&play_token=n35QFQ26lm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/pepee.jpg" group-title="Türk uşaq kanalları", TR - PEPEE TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259973&extension=ts&play_token=7WlbNE69B0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/niloya.png" group-title="Türk uşaq kanalları", TR - NILOYA TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259972&extension=ts&play_token=JcFFN9pJSh
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/trtcocuk.png" group-title="Türk uşaq kanalları", TR - TRT COCUK UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259952&extension=ts&play_token=8DuwrTG6dd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/rafadantayfa.jpg" group-title="Türk uşaq kanalları", TR - RAFADAN TAYFA TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259974&extension=ts&play_token=U99cXCHvE6
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/trtcocuk.png" group-title="Türk uşaq kanalları", TR - TRT ÇOCUK UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259963&extension=ts&play_token=6lcs4URecp
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/trtcocuk.png" group-title="Türk uşaq kanalları", TR - TRT ÇOCUK
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259964&extension=ts&play_token=NbZmh3zWOt
 
 
 
