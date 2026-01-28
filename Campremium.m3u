@@ -1087,6 +1087,50 @@ http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259924
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KANAL-23.png" group-title="Türk Ulusal Yeni", TR - KANAL 23
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=952354&extension=ts&play_token=IvhbTannHZ
 
+#EXTM3U
+#EXTINF:-1 tvg-id="|TR| Cüneyt Arkın TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Cüneyt Arkın TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/23579
+
+#EXTINF:-1 tvg-id="|TR| Ferdi Tayfur TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Ferdi Tayfur TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/24201
+
+#EXTINF:-1 tvg-id="|TR| Filiz Akın TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Filiz Akın TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48292
+
+#EXTINF:-1 tvg-id="|TR| Hülya Koçyiğit TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Hülya Koçyiğit TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48293
+
+#EXTINF:-1 tvg-id="|TR| Kadir Inanır TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Kadir Inanır TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/23580
+
+#EXTINF:-1 tvg-id="|TR| Kemal Sunal TV 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Kemal Sunal TV 1
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6325
+
+#EXTINF:-1 tvg-id="|TR| Kemal Sunal TV 2" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Kemal Sunal TV 2
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/101136
+
+#EXTINF:-1 tvg-id="|TR| Müjde Ar TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Müjde Ar TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48401
+
+#EXTINF:-1 tvg-id="|TR| Orhan Gencebay TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Orhan Gencebay TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48297
+
+#EXTINF:-1 tvg-id="|TR| Tarık Akan TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Tarık Akan TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48295
+
+#EXTINF:-1 tvg-id="|TR| Türkan Şoray TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Türkan Şoray TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48296
+
+#EXTINF:-1 tvg-id="|TR| Zeki Metin TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", |TR| Zeki Metin TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6320
+
+#EXTINF:-1 tvg-id="|TR| Ibrahim Tatlıses TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Groups", |TR| Ibrahim Tatlıses TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6318
+
+#EXTINF:-1 tvg-id="|TR| Şener Şen TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Groups", |TR| Şener Şen TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/23578
+
+
 
 
 
