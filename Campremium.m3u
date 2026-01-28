@@ -452,7 +452,7 @@ http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Rus kanalları", HollywooD (HD)
 https://s.tivix.co/fcShMIC-8zsRI4eaxPqThA/586/1757684325/index.m3u8
 
-#EXTINF:-1 tvg-id="Haber global" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Türk kanalları", Haber global
+#EXTINF:-1 tvg-id="Haber global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png" group-title="Türk kanalları", Haber global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="Arb" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azərbaycan kanalları", Arb
@@ -1129,6 +1129,7 @@ http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6318
 
 #EXTINF:-1 tvg-id="|TR| Şener Şen TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Groups", |TR| Şener Şen TV
 http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/23578
+
 
 
 
