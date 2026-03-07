@@ -515,8 +515,8 @@ https://str.yodacdn.net/idmantele/mono.m3u8
 #EXTINF:-1 tvg-id="твц "tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Rus kanalları",твц
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ren "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",Ren Tv HD
-http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/360630.m3u8
+#EXTINF:-1 tvg-id="ren "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",Ren Tv 
+http://t8afqahz.russtv.net/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/128/index.m3u8
 
 #EXTINF:-1 tvg-id="стс "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg/2560px-8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg.png" group-title="Rus kanalları",СТС
 https://streaming101.goodstream.cyou/live/296-req_offset_28000000-req_window_0-2k_v5.m3u8
@@ -1107,6 +1107,7 @@ http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/23578
 
 #EXTINF:-1 tvg-id="minikago" tvg-logo="https://images.seeklogo.com/logo-png/52/1/minika-go-logo-png_seeklogo-520663.png" group-title="Türk kanalları", MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+
 
 
 
